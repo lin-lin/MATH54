@@ -64,9 +64,9 @@ Linear independence. 1.7.
 ### Lecture 2/10 Mo
 <span style='color:blue'>Homework</span> due 2/12 We: 
 
-### Lecture 2/12 We
+### Lecture 2/12 We. Midterm
 
-<span style='color:red'>Midterm #1</span> , in class, covers: 
+**Midterm #1** in class, covers: 
 
 <span style='color:blue'>Homework</span> due 2/14 Fr: 
 
@@ -144,7 +144,7 @@ Linear independence. 1.7.
 ### Lecture 3/30 Mo
 <span style='color:blue'>Homework</span> due 4/1 We: 
 
-### Lecture 4/1 We
+### Lecture 4/1 We. Midterm
 
 <span style='color:red'>Midterm #2</span> , in class, covers: 
 
