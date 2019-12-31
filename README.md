@@ -1,8 +1,8 @@
 # UC Berkeley Math 54, Spring 2020
 
-This is a repository for the course [Math 54: Linear Algebra & Differential Equations](https://math.berkeley.edu/courses/spring-2020-math-54-001-lec) in Spring 2020 (See also the [bCourses page](https://bcourses.berkeley.edu/courses/1488929) for administrative information. CalNet ID required)
+This is a repository for the course [Math 54: Linear Algebra & Differential Equations](https://math.berkeley.edu/courses/spring-2020-math-54-001-lec) in Spring 2020.
 
-This repository mainly contains information for lecture notes and assignments. Other information, such as exam solutions  will be posted here on bCourses.
+This repository contains most of the information you need for this course (lecture notes, assignments). Course sensitive information (exam, grade distribution etc) will be posted on [bCourses](https://bcourses.berkeley.edu/courses/1488929) (CalNet ID required).
 
 ## General information
 
