@@ -35,6 +35,12 @@ Any student is welcome to attend the office hours of any GSI.
 
 Systems of linear equations, row reduction. 1.1, 1.2.
 
+[Alan Edelman's notebook on Machine Learning with Gaussian Elimination](notebooks/Machine-Learning-with-Gaussian-elimination.ipynb)
+
+This course may demonstrate some numerical calculations using `Julia notebooks`. It does not require you to know the language of [Julia](https://julialang.org/). But in case you do, [here is some useful information](julia.md).
+
+ 
+
 ### Lecture 1/24 Fri
 
 Vectors and matrices. 1.3, 1.4, 1.5.
