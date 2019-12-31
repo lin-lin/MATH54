@@ -6,6 +6,8 @@ This repository mainly contains information for lecture notes and assignments. O
 
 ## General information
 
+Please read the [**Course Policy**](others/CoursePolicy.pdf) **VERY CAREFULLY**  
+
 Instructor: Lin Lin. https://math.berkeley.edu/~linlin/
 
 Lecture: Dwinelle 155  MoWeFr 02:00PM - 02:59PM
@@ -23,6 +25,9 @@ Any student is welcome to attend the office hours of any GSI.
 **Piazza page:** General questions about the course and its content, which might be of interest to other students, can be asked on the [piazza page](https://piazza.com/berkeley/spring2020/math54001).
 
 ## Announcement
+
+- The first discussion session starts on 1/23 (Thursday).
+- If you find the final exam conflicts with your schedule, **please immediately switch to one of the other sessions, no later than 1/31/2020 (Friday).**
 
 ## Part 1. Linear algebra, first half.
 
