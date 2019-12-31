@@ -43,6 +43,7 @@ Vectors and matrices. 1.3, 1.4, 1.5.
 ### Lecture 1/29 Wed
 
 *Homework* due 2/4 Tue: 
+
 **Quiz** on 1/30 Thu covers: 
 
 ### Lecture 1/31 Fri
@@ -56,6 +57,7 @@ Vectors and matrices. 1.3, 1.4, 1.5.
 ### Lecture 2/5 Wed
 
 *Homework* due 2/11 Tue: 
+
 **Quiz** on 2/6 Thu covers: 
 
 ### Lecture 2/7 Fri
@@ -87,6 +89,7 @@ Vectors and matrices. 1.3, 1.4, 1.5.
 ### Lecture 2/19 Wed
 
 *Homework* due 2/25 Tue: 
+
 **Quiz** on 2/20 Thu covers: 
 
 ### Lecture 2/21 Fri
@@ -100,6 +103,7 @@ Vectors and matrices. 1.3, 1.4, 1.5.
 ### Lecture 2/26 Wed
 
 *Homework* due 3/3 Tue: 
+
 **Quiz** on 2/27 Thu covers: 
 
 ### Lecture 2/28 Fri
@@ -113,6 +117,7 @@ Vectors and matrices. 1.3, 1.4, 1.5.
 ### Lecture 3/4 Wed
 
 *Homework* due 3/10 Tue: 
+
 **Quiz** on 3/5 Thu covers: 
 
 ### Lecture 3/6 Fri
@@ -126,6 +131,7 @@ Vectors and matrices. 1.3, 1.4, 1.5.
 ### Lecture 3/11 Wed
 
 *Homework* due 3/17 Tue: 
+
 **Quiz** on 3/12 Thu covers: 
 
 ### Lecture 3/13 Fri
@@ -173,6 +179,7 @@ Vectors and matrices. 1.3, 1.4, 1.5.
 ### Lecture 4/8 Wed
 
 *Homework* due 4/14 Tue: 
+
 **Quiz** on 4/9 Thu covers: 
 
 ### Lecture 4/10 Fri
@@ -186,6 +193,7 @@ Vectors and matrices. 1.3, 1.4, 1.5.
 ### Lecture 4/15 Wed
 
 *Homework* due 4/21 Tue: 
+
 **Quiz** on 4/16 Thu covers: 
 
 ### Lecture 4/17 Fri
@@ -199,6 +207,7 @@ Vectors and matrices. 1.3, 1.4, 1.5.
 ### Lecture 4/22 Wed
 
 *Homework* due 4/28 Tue: 
+
 **Quiz** on 4/23 Thu covers: 
 
 ### Lecture 4/24 Fri
@@ -212,6 +221,7 @@ Vectors and matrices. 1.3, 1.4, 1.5.
 ### Lecture 4/29 Wed
 
 *Homework* due 5/5 Tue: 
+
 **Quiz** on 4/30 Thu covers: 
 
 ### Lecture 5/1 Fri
