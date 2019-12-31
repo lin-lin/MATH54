@@ -1,13 +1,70 @@
-### How to install Julia
+### Why Julia
+
+**Compiled language**
+
+•C
+
+•C++
+
+•FORTRAN
+
+•…
+
+
+
+**Interpreted language**
+
+•MATLAB
+
+•Python
+
+•Julia: **Promising newcomer for scientific computing** 
+
+
+
+Bezanson et al, Julia: A Fresh Approach to Numerical Computing, *SIAM Rev.*, 59(1), 65–98. 2017
+
+J. H. Wilkinson Prize for Numerical Software, 2019
+
+
+
+Under **active** development
+
+![](lectures/assets/juliagithub_12302019.png)
+
+### Some useful materials
+
+Here is a notebook introducing some basic features of Julia.
+
+[Notebook: Julia tutorial](notebooks/Basics.ipynb) Last update: 8/28/2019
+
+Here are a few other online documents.
+
+[Learn X in Y minutes](https://learnxinyminutes.com/docs/julia/)
+
+[The Julia Express (pdf)](http://bogumilkaminski.pl/files/julia_express.pdf)
+
+[MATLAB–Python–Julia cheatsheet](https://cheatsheets.quantecon.org/)
+
+[Julia user manual](https://docs.julialang.org/)
+
+
+
+### Use Julia Out of the Box
+
+https://juliabox.com/
+
+https://repl.it/languages/julia
+
+
+
+### How to install Julia on your computer
 
 1. Download the binary file (**version 1.2 demonstrated here**)
    
-   (Linux): https://julialang-s3.julialang.org/bin/linux/x64/1.2/julia-1.2.0-linux-x86_64.tar.gz
-   
-
-(Windows) https://julialang-s3.julialang.org/bin/winnt/x64/1.2/julia-1.2.0-win64.exe
-
-   (Mac) https://julialang-s3.julialang.org/bin/mac/x64/1.2/julia-1.2.0-mac64.dmg
+   - (Linux): https://julialang-s3.julialang.org/bin/linux/x64/1.2/julia-1.2.0-linux-x86_64.tar.gz
+   - (Windows) https://julialang-s3.julialang.org/bin/winnt/x64/1.2/julia-1.2.0-win64.exe
+   - (Mac) https://julialang-s3.julialang.org/bin/mac/x64/1.2/julia-1.2.0-mac64.dmg
 
 2. Untar / install
 
@@ -246,18 +303,3 @@ First of all,  Julia v0.7 (released 08/2018, equivalent to v1.0 other than addit
 
 
 
-### Other materials
-
-Here is a notebook introducing some basic features of Julia.
-
-[Notebook: Julia tutorial](notebooks/Basics.ipynb) Last update: 8/28/2019
-
-Here are a few other online documents.
-
-[Learn X in Y minutes](https://learnxinyminutes.com/docs/julia/)
-
-[The Julia Express (pdf)](http://bogumilkaminski.pl/files/julia_express.pdf)
-
-[MATLAB–Python–Julia cheatsheet](https://cheatsheets.quantecon.org/)
-
-[Julia user manual](https://docs.julialang.org/)
