@@ -26,176 +26,197 @@ Any student is welcome to attend the office hours of any GSI.
 
 ## Part 1. Linear algebra, first half.
 
-### Lecture 1/22 We
+### Lecture 1/22 Wed
 
 Systems of linear equations, row reduction. 1.1, 1.2.
 
-### Lecture 1/24 Fr
+### Lecture 1/24 Fri
 
 Vectors and matrices. 1.3, 1.4, 1.5.
 
-<span style='color:blue'>Homework</span> due 1/27 Mo:  **1.1**: 1, 7, 9, 11, 15, 20, 28. **1.2**: 3, 7, 11, 15, 23, 29, 30.
+*Homework* due 1/28 Tue: **1.1**: 1, 7, 9, 11, 15, 20, 28. **1.2**: 3, 7, 11, 15, 23, 29, 30.
 
-### Lecture 1/27 Mo
+### Lecture 1/27 Mon
 
-Linear independence. 1.7.
+*Homework* due 2/4 Tue: 
 
-<span style='color:blue'>Homework</span> due 1/29 We: **1.3**: 3, 5 11, 15, 25, 32. **1.4**: 1, 5, 7, 11, 17, 18.
+### Lecture 1/29 Wed
 
-### Lecture 1/29 We
-<span style='color:blue'>Homework</span> due 1/31 Fr: 
+*Homework* due 2/4 Tue: 
+**Quiz** on 1/30 Thu covers: 
 
-<span style='color:orange'>Quiz 1</span> covers: 
+### Lecture 1/31 Fri
 
-### Lecture 1/31 Fr
-<span style='color:blue'>Homework</span> due 2/3 Mo: 
+*Homework* due 2/4 Tue: 
 
-### Lecture 2/3 Mo
-<span style='color:blue'>Homework</span> due 2/5 We: 
+### Lecture 2/3 Mon
 
-### Lecture 2/5 We
-<span style='color:blue'>Homework</span> due 2/7 Fr: 
+*Homework* due 2/11 Tue: 
 
-<span style='color:orange'>Quiz 2</span> covers: 
+### Lecture 2/5 Wed
 
-### Lecture 2/7 Fr
-<span style='color:blue'>Homework</span> due 2/10 Mo: 
+*Homework* due 2/11 Tue: 
+**Quiz** on 2/6 Thu covers: 
 
-### Lecture 2/10 Mo
-<span style='color:blue'>Homework</span> due 2/12 We: 
+### Lecture 2/7 Fri
 
-### Lecture 2/12 We. Midterm
+*Homework* due 2/11 Tue: 
+
+### Lecture 2/10 Mon
+
+*Homework* due 2/18 Tue: 
+
+### Lecture 2/12 Wed. Midterm!
+
+*Homework* due 2/18 Tue: 
 
 **Midterm #1** in class, covers: 
 
-<span style='color:blue'>Homework</span> due 2/14 Fr: 
 
 
+### Lecture 2/14 Fri
 
-### Lecture 2/14 Fr
-<span style='color:blue'>Homework</span> due 2/19 We: 
+*Homework* due 2/18 Tue: 
 
 
 
 ## Part 2. Linear algebra, second half.
 
-### Lecture 2/19 We
-
-<span style='color:blue'>Homework</span> due 2/21 Fr: 
-
-<span style='color:orange'>Quiz 3</span> covers: 
-
-### Lecture 2/21 Fr
-
-<span style='color:blue'>Homework</span> due 2/24 Mo: 
-
-### Lecture 2/24 Mo
-<span style='color:blue'>Homework</span> due 2/26 We: 
-
-### Lecture 2/26 We
-<span style='color:blue'>Homework</span> due 2/28 Fr: 
-
-<span style='color:orange'>Quiz 4</span> covers: 
 
 
+### Lecture 2/19 Wed
 
-### Lecture 2/28 Fr
-<span style='color:blue'>Homework</span> due 3/2 Mo: 
+*Homework* due 2/25 Tue: 
+**Quiz** on 2/20 Thu covers: 
 
-### Lecture 3/2 Mo
-<span style='color:blue'>Homework</span> due 3/4 We: 
+### Lecture 2/21 Fri
 
-### Lecture 3/4 We
-<span style='color:blue'>Homework</span> due 3/6 Fr: 
+*Homework* due 2/25 Tue: 
 
-<span style='color:orange'>Quiz 5</span> covers: 
+### Lecture 2/24 Mon
 
-### 
+*Homework* due 3/3 Tue: 
 
-### Lecture 3/6 Fr
-<span style='color:blue'>Homework</span> due 3/9 Mo: 
+### Lecture 2/26 Wed
 
-### Lecture 3/9 Mo
-<span style='color:blue'>Homework</span> due 3/11 We: 
+*Homework* due 3/3 Tue: 
+**Quiz** on 2/27 Thu covers: 
 
-### Lecture 3/11 We
-<span style='color:blue'>Homework</span> due 3/13 Fr: 
+### Lecture 2/28 Fri
 
-<span style='color:orange'>Quiz 6</span> covers: 
+*Homework* due 3/3 Tue: 
 
-### 
+### Lecture 3/2 Mon
 
-### Lecture 3/13 Fr
-<span style='color:blue'>Homework</span> due 3/16 Mo: 
+*Homework* due 3/10 Tue: 
 
-### Lecture 3/16 Mo
-<span style='color:blue'>Homework</span> due 3/18 We: 
+### Lecture 3/4 Wed
 
-### Lecture 3/18 We
-<span style='color:blue'>Homework</span> due 3/20 Fr: 
+*Homework* due 3/10 Tue: 
+**Quiz** on 3/5 Thu covers: 
 
-<span style='color:orange'>Quiz 7</span> covers: 
+### Lecture 3/6 Fri
 
-### Lecture 3/20 Fr
-<span style='color:blue'>Homework</span> due 3/30 Mo: 
+*Homework* due 3/10 Tue: 
+
+### Lecture 3/9 Mon
+
+*Homework* due 3/17 Tue: 
+
+### Lecture 3/11 Wed
+
+*Homework* due 3/17 Tue: 
+**Quiz** on 3/12 Thu covers: 
+
+### Lecture 3/13 Fri
+
+*Homework* due 3/17 Tue: 
+
+### Lecture 3/16 Mon
+
+*Homework* due 3/31 Tue: 
+
+### Lecture 3/18 Wed
+
+*Homework* due 3/31 Tue: 
+**Quiz** on 3/19 Thu covers: 
+
+### Lecture 3/20 Fri
+
+*Homework* due 3/31 Tue: 
+
+
 
 ## Part 3. Differential equations.
 
-### Lecture 3/30 Mo
-<span style='color:blue'>Homework</span> due 4/1 We: 
+### Lecture 3/30 Mon
 
-### Lecture 4/1 We. Midterm
+*Homework* due 4/7 Tue: 
 
-<span style='color:red'>Midterm #2</span> , in class, covers: 
+### Lecture 4/1 Wed. Midterm!
 
-<span style='color:blue'>Homework</span> due 4/3 Fr: 
+*Homework* due 4/7 Tue: 
 
-### Lecture 4/3 Fr
-<span style='color:blue'>Homework</span> due 4/6 Mo: 
+**Midterm 2**, in class, covers: 
 
-### Lecture 4/6 Mo
-<span style='color:blue'>Homework</span> due 4/8 We: 
 
-### Lecture 4/8 We
-<span style='color:blue'>Homework</span> due 4/10 Fr: 
 
-<span style='color:orange'>Quiz 8</span> covers: 
 
-### Lecture 4/10 Fr
-<span style='color:blue'>Homework</span> due 4/13 Mo: 
+### Lecture 4/3 Fri
 
-### Lecture 4/13 Mo
-<span style='color:blue'>Homework</span> due 4/15 We: 
+*Homework* due 4/7 Tue: 
 
-### Lecture 4/15 We
-<span style='color:blue'>Homework</span> due 4/17 Fr: 
+### Lecture 4/6 Mon
 
-<span style='color:orange'>Quiz 9</span> covers: 
+*Homework* due 4/14 Tue: 
 
-### Lecture 4/17 Fr
-<span style='color:blue'>Homework</span> due 4/20 Mo: 
+### Lecture 4/8 Wed
 
-### Lecture 4/20 Mo
-<span style='color:blue'>Homework</span> due 4/22 We: 
+*Homework* due 4/14 Tue: 
+**Quiz** on 4/9 Thu covers: 
 
-### Lecture 4/22 We
-<span style='color:blue'>Homework</span> due 4/24 Fr: 
+### Lecture 4/10 Fri
 
-<span style='color:orange'>Quiz 10</span> covers: 
+*Homework* due 4/14 Tue: 
 
-### Lecture 4/24 Fr
-<span style='color:blue'>Homework</span> due 4/27 Mo: 
+### Lecture 4/13 Mon
 
-### Lecture 4/27 Mo
-<span style='color:blue'>Homework</span> due 4/29 We: 
+*Homework* due 4/21 Tue: 
 
-### Lecture 4/29 We
-<span style='color:blue'>Homework</span> due 5/1 Fr: 
+### Lecture 4/15 Wed
 
-<span style='color:orange'>Quiz 11</span> covers: 
+*Homework* due 4/21 Tue: 
+**Quiz** on 4/16 Thu covers: 
 
-### Lecture 5/1 Fr
-<span style='color:blue'>Homework</span> due 5/4 Mo: 
+### Lecture 4/17 Fri
+
+*Homework* due 4/21 Tue: 
+
+### Lecture 4/20 Mon
+
+*Homework* due 4/28 Tue: 
+
+### Lecture 4/22 Wed
+
+*Homework* due 4/28 Tue: 
+**Quiz** on 4/23 Thu covers: 
+
+### Lecture 4/24 Fri
+
+*Homework* due 4/28 Tue: 
+
+### Lecture 4/27 Mon
+
+*Homework* due 5/5 Tue: 
+
+### Lecture 4/29 Wed
+
+*Homework* due 5/5 Tue: 
+**Quiz** on 4/30 Thu covers: 
+
+### Lecture 5/1 Fri
+
+*Homework* due 5/5 Tue: 
 
 ### Lecture 5/4 Mo
 RRR week
@@ -207,6 +228,9 @@ RRR week
 RRR week
 
 ### Final exam
+
+
+
 
 
 
