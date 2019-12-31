@@ -145,6 +145,7 @@ Vectors and matrices. 1.3, 1.4, 1.5.
 ### Lecture 3/18 Wed
 
 *Homework* due 3/31 Tue: 
+
 **Quiz** on 3/19 Thu covers: 
 
 ### Lecture 3/20 Fri
