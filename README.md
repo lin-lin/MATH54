@@ -14,9 +14,11 @@ Lecture: Dwinelle 155  MoWeFr 02:00PM - 02:59PM
 
 Office Hours: Mo 12:30PM-2:00PM Evans 1083 (office hours may change occasionally, so please check this website first before you come to the office hour each time)
 
-**Textbook:** *Linear algebra and differential equations, second custom edition for UC Berkeley*. 
+**Textbook:** *Linear algebra and differential equations, custom edition for UC Berkeley*. 
 
-This consists of selected chapters from the two books *Linear algebra and its applications, fourth edition* by David C. Lay, and *Fundamentals of differential equations, eighth edition* by R. Kent Nagle, Edward B. Saff and Arthur David Snider. It is fine to use the latter two books instead of the custom edition.
+![](lectures/assets/textbook.png)
+
+This consists of selected chapters from the two books *Linear algebra and its applications, 5th edition* by David C. Lay, and *Fundamentals of differential equations, 9th edition* by R. Kent Nagle, Edward B. Saff and Arthur David Snider. It is fine to use the latter two books instead of the custom edition.
 
 **GSI office hours (to be added):**
 
