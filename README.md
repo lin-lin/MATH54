@@ -251,7 +251,7 @@ RRR week
 
 ### Final exam
 
-
+5/12/2020 (Tuesday)	11:30--2:30 PM
 
 
 
