@@ -249,9 +249,9 @@ RRR week
 ### Lecture 5/8 Fr
 RRR week
 
-### Final exam
+### Final exam 5/12 Tu11:30--2:30 PM
 
-5/12/2020 (Tuesday)	11:30--2:30 PM
+**There is no make-up final exam**
 
 
 
