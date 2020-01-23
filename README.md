@@ -35,6 +35,10 @@ Any student is welcome to attend the office hours of any GSI.
 
 ## Part 1. Linear algebra, first half.
 
+[General information of the class (pdf)](lectures/General.pdf)
+
+
+
 ### Lecture 1/22 Wed
 
 Systems of linear equations, row reduction. 1.1, 1.2.
@@ -43,7 +47,7 @@ Systems of linear equations, row reduction. 1.1, 1.2.
 
 This course may demonstrate some numerical calculations using `Julia notebooks`. It does not require you to know the language of [Julia](https://julialang.org/). But in case you are curious (I bet you do), [here is some useful information](julia.md).
 
- 
+[Lecture note 1 (pdf)](lectures/Note1.pdf)
 
 ### Lecture 1/24 Fri
 
