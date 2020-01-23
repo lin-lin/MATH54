@@ -31,7 +31,7 @@ Any student is welcome to attend the office hours of any GSI.
 ## Announcement
 
 - The first discussion session starts on 1/23 (Thursday).
-- If you find the final exam conflicts with your schedule, **please immediately switch to one of the other sessions, no later than 1/31/2020 (Friday).**
+- Again, there is no make-up final exam.
 
 ## Part 1. Linear algebra, first half.
 
