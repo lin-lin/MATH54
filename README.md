@@ -32,7 +32,7 @@ Any student is welcome to attend the office hours of any GSI.
 
 - The first discussion session starts on 1/23 (Thursday).
 - Again, there is no make-up final exam.
-- 1/24: The homework refers to the problem sets in the new textbook (listed above). This includes the first homework due on 1/28.
+- 1/24: The homework refers to the problem sets in the new textbook (listed above). This includes the first homework due on 1/28. The Department of Mathematics is informing the Student Store to have more copies of the textbook available, and will deliver a few more textbooks to the Moffitt Library as course reserves.
 
 ## Part 1. Linear algebra, first half.
 
