@@ -32,6 +32,7 @@ Any student is welcome to attend the office hours of any GSI.
 
 - The first discussion session starts on 1/23 (Thursday).
 - Again, there is no make-up final exam.
+- 1/24: The homework refers to the problem sets in the new textbook (listed above). This includes the first homework due on 1/28.
 
 ## Part 1. Linear algebra, first half.
 
@@ -41,7 +42,7 @@ Any student is welcome to attend the office hours of any GSI.
 
 ### Lecture 1/22 Wed
 
-Systems of linear equations, row reduction. 1.1, 1.2.
+Systems of linear equations, . 1.1, 
 
 [Alan Edelman's notebook on Machine Learning with Gaussian Elimination](notebooks/Machine-Learning-with-Gaussian-elimination.ipynb)
 
@@ -51,11 +52,17 @@ This course may demonstrate some numerical calculations using `Julia notebooks`.
 
 ### Lecture 1/24 Fri
 
-Vectors and matrices. 1.3, 1.4, 1.5.
+Row reduction 1.2.
 
 *Homework* due 1/28 Tue: **1.1**: 1, 7, 9, 11, 15, 20, 28. **1.2**: 3, 7, 11, 15, 23, 29, 30.
 
+[Lecture note 2 (pdf)](lectures/Note2.pdf)
+
+
+
 ### Lecture 1/27 Mon
+
+Vectors and matrices. 1.3, 1.4, 1.5.
 
 *Homework* due 2/4 Tue: 
 
