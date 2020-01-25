@@ -14,6 +14,8 @@ Lecture: Dwinelle 155  MoWeFr 02:00PM - 02:59PM
 
 Office Hours: Mo 12:30PM-2:00PM Evans 1083 (office hours may change occasionally, so please check this website first before you come to the office hour each time)
 
+
+
 **Textbook:** *Linear algebra and differential equations, custom edition for UC Berkeley*. 
 
 ![textbook_1](lectures/assets/textbook_1.png)
@@ -22,9 +24,31 @@ This consists of selected chapters from the two books *Linear algebra and its ap
 
 Previous versions of the custom edition, or the separate textbooks as above **may work, but it is your responsibility to make sure that you are doing the correct problem sets for your homework.**
 
-**GSI office hours (to be added):**
+
+
+**GSI office hours:**
+
+German Stefanich, Wednesday 8:30-10:30 AM, Evans 737
+
+Ahmee Marshall-Christensen, Monday 11 AM-12 PM Wednesday 11 AM-12 PM, Evans 832
+
+Guillaume Massas, Wednesday 10 AM-12 PM, Evans 1062
+
+Adele Padgett, Tuesday 2-3 PM and Thursday 2-3 PM, Evans 1060
+
+Ziwen Zhao, Monday 9-11 AM, Evans 1006
+
+Yixuan Li, Tuesday 1-12 PM and Thursday 1-2 PM, Evans 1040
+
+Meredith Shea, Monday 10 AM-12 PM, Evans 835
+
+Xiaohan Yan, Monday 12-1 PM and Wednesday 3-4 PM, Evans 747
+
+Theo Coyne, Tuesday 11 AM-12 PM Thursday 4-5 PM, Evans 710
 
 Any student is welcome to attend the office hours of any GSI.
+
+
 
 **Piazza page:** General questions about the course and its content, which might be of interest to other students, can be asked on the [piazza page](https://piazza.com/berkeley/spring2020/math54001).
 
