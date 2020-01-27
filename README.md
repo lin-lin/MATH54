@@ -16,7 +16,7 @@ Office Hours: Mo 12:30PM-2:00PM Evans 1083 (office hours may change occasionally
 
 
 
-**Textbook:** *Linear algebra and differential equations, custom edition for UC Berkeley*. 
+**Textbook:** *Linear algebra and differential equations, custom edition for UC Berkeley*.  **ISBN:** 9781323720868
 
 ![textbook_1](lectures/assets/textbook_1.png)
 
@@ -86,19 +86,23 @@ Row reduction 1.2.
 
 ### Lecture 1/27 Mon
 
-Vectors and matrices. 1.3, 1.4, 1.5.
+Vectors and matrices. 1.3, 1.4.
 
-*Homework* due 2/4 Tue: 
+*Homework* due 2/4 Tue: **1.3**: 3, 5 11, 15, 25, 32,33.  **1.4**: 4,10,14,24,34
 
 ### Lecture 1/29 Wed
 
-*Homework* due 2/4 Tue: 
+Solution sets of linear systems. 1.5
 
-**Quiz** on 1/30 Thu covers: 
+*Homework* due 2/4 Tue: **1.5**: 8,16,20,24,26,34,38
+
+**Quiz** on 1/30 Thu covers: **1.1-1.2**
 
 ### Lecture 1/31 Fri
 
-*Homework* due 2/4 Tue: 
+Linear independence. 1.7
+
+*Homework* due 2/4 Tue: **1.7**: 1,8,11,14,16,22,24,28,32,36,38
 
 ### Lecture 2/3 Mon
 
