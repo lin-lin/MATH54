@@ -90,6 +90,10 @@ Vectors and matrices. 1.3, 1.4.
 
 *Homework* due 2/4 Tue: **1.3**: 3, 5 11, 15, 25, 32,33.  **1.4**: 4,10,14,24,34
 
+[Lecture note 3 (pdf)](lectures/Note3.pdf)
+
+
+
 ### Lecture 1/29 Wed
 
 Solution sets of linear systems. 1.5
