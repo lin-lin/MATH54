@@ -113,19 +113,29 @@ Linear independence. 1.7
 
 *Homework* due 2/4 Tue: **1.7**: 1,8,11,14,16,22,24,28,32,36,38
 
+[Lecture note 5 (pdf)](lectures/Note5.pdf)
+
+
+
 ### Lecture 2/3 Mon
 
-*Homework* due 2/11 Tue: 
+Linear transformations. 1.8, 1.9
+
+*Homework* due 2/11 Tue: **1.8**: 1,3,9,15,19,21,33,36 
 
 ### Lecture 2/5 Wed
 
-*Homework* due 2/11 Tue: 
+Linear transformations. 1.8, 1.9
 
-**Quiz** on 2/6 Thu covers: 
+*Homework* due 2/11 Tue:  **1.9**: 4,10,11,14,24,34,36
+
+**Quiz** on 2/6 Thu covers: **1.3-1.7**
 
 ### Lecture 2/7 Fri
 
-*Homework* due 2/11 Tue: 
+Matrix operations. 2.1.
+
+*Homework* due 2/11 Tue: **2.1**: 6,8,11,12,14,15,16,19,22,24,26,31,32
 
 ### Lecture 2/10 Mon
 
@@ -135,17 +145,13 @@ Linear independence. 1.7
 
 *Homework* due 2/18 Tue: 
 
-**Midterm #1** in class, covers: 
+**Midterm #1** in class, covers: **1.1-2.1**
 
 
 
 ### Lecture 2/14 Fri
 
 *Homework* due 2/18 Tue: 
-
-
-
-## Part 2. Linear algebra, second half.
 
 
 
@@ -172,6 +178,10 @@ Linear independence. 1.7
 ### Lecture 2/28 Fri
 
 *Homework* due 3/3 Tue: 
+
+## Part 2. Linear algebra, second half.
+
+
 
 ### Lecture 3/2 Mon
 
