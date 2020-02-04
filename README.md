@@ -123,6 +123,12 @@ Linear transformations. 1.8, 1.9
 
 *Homework* due 2/11 Tue: **1.8**: 1,3,9,15,19,21,33,36 
 
+[Lecture note 6 (pdf)](lectures/Note6.pdf)
+
+[Image transformation (pdf)](lectures/Image_Transformation.pdf)
+
+
+
 ### Lecture 2/5 Wed
 
 Linear transformations. 1.8, 1.9
