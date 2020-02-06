@@ -137,6 +137,10 @@ Linear transformations. 1.8, 1.9
 
 **Quiz** on 2/6 Thu covers: **1.3-1.7**
 
+[Lecture note 7 (pdf)](lectures/Note7.pdf)
+
+
+
 ### Lecture 2/7 Fri
 
 Matrix operations. 2.1.
