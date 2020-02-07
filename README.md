@@ -158,7 +158,11 @@ Matrix operations. 2.1.
 
 ### Lecture 2/10 Mon
 
-*Homework* due 2/18 Tue: 
+Matrix inverse and invertible matrices
+
+2.2, 2.3
+
+*Homework* due 2/18 Tue: **2.2**: 2,8,10,12,13,16,17,18,20,27 **2.3**: 1,3,7,11,13,15,19,30
 
 ### Lecture 2/12 Wed. Midterm!
 
@@ -166,23 +170,31 @@ Matrix operations. 2.1.
 
 **Midterm #1** in class, covers: **1.1-2.1**
 
-
+**No quiz this Thursday**
 
 ### Lecture 2/14 Fri
 
-*Homework* due 2/18 Tue: 
+Subspaces, 2.8
+
+*Homework* due 2/18 Tue: **2.8**: 5,6,7,8,9,15,21,22,23, 28, 31 
 
 
 
 ### Lecture 2/19 Wed
 
-*Homework* due 2/25 Tue: 
+Dimension and rank, 2.9
 
-**Quiz** on 2/20 Thu covers: 
+*Homework* due 2/25 Tue: **2.9**: 3,5,7,9,16,17, 21,23, 24, 27  
+
+**Quiz** on 2/20 Thu covers: 1.8, 1.9, 2.1-2.3, 2.8
+
+## Part 2. Linear algebra, second half.
 
 ### Lecture 2/21 Fri
 
-*Homework* due 2/25 Tue: 
+Vector spaces,  4.1
+
+*Homework* due 2/25 Tue: **4.1**: 1,3,9,13,14,21,23,24,32 
 
 ### Lecture 2/24 Mon
 
@@ -197,8 +209,6 @@ Matrix operations. 2.1.
 ### Lecture 2/28 Fri
 
 *Homework* due 3/3 Tue: 
-
-## Part 2. Linear algebra, second half.
 
 
 
