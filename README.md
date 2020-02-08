@@ -156,6 +156,10 @@ Matrix operations. 2.1.
 
 *Homework* due 2/11 Tue: **2.1**: 6,8,11,12,14,15,16,19,22,24,26,31,32
 
+[Lecture note 8 (pdf)](lectures/Note8.pdf)
+
+
+
 ### Lecture 2/10 Mon
 
 Matrix inverse and invertible matrices
