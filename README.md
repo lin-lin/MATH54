@@ -62,9 +62,11 @@ Any student is welcome to attend the office hours of any GSI.
 
 - 1/28: We do not use gradescope for homework. All homework should be turned in during the discussion session.
 
-- **2/6: Sample Midterm 1 is available on bCourses. Solution to Sample Midterm 1 will be posted on bCourses on 2/9.**
+- 2/6: Sample Midterm 1 is available on bCourses. Solution to Sample Midterm 1 will be posted on bCourses on 2/9.
 
-- **2/6: The Midterm 1 will be 2/12 in class (2:10PM-3:00PM). All students with DSP accommodation letters should come to Evans 748, no later than 3PM.**
+- 2/6: The Midterm 1 will be 2/12 in class (2:10PM-3:00PM). All students with DSP accommodation letters should come to **Evans 748, at 2PM.**
+
+- **2/8: Sample Midterm 1 Solution is on bCourses.**
 
   
 
