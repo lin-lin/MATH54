@@ -68,6 +68,8 @@ Any student is welcome to attend the office hours of any GSI.
 
 - 2/8: Sample Midterm 1 Solution is on bCourses.
 
+- **2/10: If you want more practices, https://tbp.berkeley.edu/courses/math/54/ collects a number of exam questions from various instructors in the past.**
+
   
 
 ## Part 1. Linear algebra, first half.
