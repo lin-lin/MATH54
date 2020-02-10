@@ -66,7 +66,7 @@ Any student is welcome to attend the office hours of any GSI.
 
 - 2/6: The Midterm 1 will be 2/12 in class (2:10PM-3:00PM). All students with DSP accommodation letters should come to **Evans 748, at 2PM.**
 
-- **2/8: Sample Midterm 1 Solution is on bCourses.**
+- 2/8: Sample Midterm 1 Solution is on bCourses.
 
   
 
@@ -78,11 +78,7 @@ Any student is welcome to attend the office hours of any GSI.
 
 ### Lecture 1/22 Wed
 
-Systems of linear equations, . 1.1, 
-
-[Alan Edelman's notebook on Machine Learning with Gaussian Elimination](notebooks/Machine-Learning-with-Gaussian-elimination.ipynb)
-
-This course may demonstrate some numerical calculations using `Julia notebooks`. It does not require you to know the language of [Julia](https://julialang.org/). But in case you are curious (I bet you do), [here is some useful information](julia.md).
+Systems of linear equations,  1.1
 
 [Lecture note 1 (pdf)](lectures/Note1.pdf)
 
@@ -169,6 +165,16 @@ Matrix inverse and invertible matrices
 2.2, 2.3
 
 *Homework* due 2/18 Tue: **2.2**: 2,8,10,12,13,16,17,18,20,27 **2.3**: 1,3,7,11,13,15,19,30
+
+[Lecture note 9 (pdf)](lectures/Note9.pdf)
+
+[Matrix-vector multiplication and neural networks (pdf)](lectures/Matvec-NeuralNet.pdf)
+
+[Alan Edelman's notebook on Machine Learning with Gaussian Elimination](notebooks/Machine-Learning-with-Gaussian-elimination.ipynb)
+
+This course may demonstrate some numerical calculations using `Julia notebooks`. It does not require you to know the language of [Julia](https://julialang.org/). But in case you are curious (I bet you do), [here is some useful information](julia.md).
+
+
 
 ### Lecture 2/12 Wed. Midterm!
 
