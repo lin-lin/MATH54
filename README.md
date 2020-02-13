@@ -68,7 +68,9 @@ Any student is welcome to attend the office hours of any GSI.
 
 - 2/8: Sample Midterm 1 Solution is on bCourses.
 
-- **2/10: If you want more practices, https://tbp.berkeley.edu/courses/math/54/ collects a number of exam questions from various instructors in the past.**
+- 2/10: If you want more practices, https://tbp.berkeley.edu/courses/math/54/ collects a number of exam questions from various instructors in the past.
+
+- **2/12: No discussion session on 2/13.**
 
   
 
@@ -184,7 +186,7 @@ This course may demonstrate some numerical calculations using `Julia notebooks`.
 
 **Midterm #1** in class, covers: **1.1-2.1**
 
-**No quiz this Thursday**
+**No discussion session this Thursday**
 
 ### Lecture 2/14 Fri
 
@@ -282,7 +284,9 @@ Vector spaces,  4.1
 
 **Midterm 2**, in class, covers: 
 
+**No discussion session this Thursday**
 
+### 
 
 
 ### Lecture 4/3 Fri
