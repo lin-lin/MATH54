@@ -194,6 +194,8 @@ Subspaces, 2.8
 
 *Homework* due 2/18 Tue: **2.8**: 5,6,7,8,9,15,21,22,23, 28, 31 
 
+[Lecture note 10 (pdf)](lectures/Note10.pdf)
+
 
 
 ### Lecture 2/19 Wed
