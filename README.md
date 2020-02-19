@@ -196,17 +196,19 @@ Subspaces, 2.8
 
 [Lecture note 10 (pdf)](lectures/Note10.pdf)
 
-
+## Part 2. Linear algebra, second half.
 
 ### Lecture 2/19 Wed
 
-Dimension and rank, 2.9
+Dimension and rank, 2.9. Vector spaces,  4.1
 
 *Homework* due 2/25 Tue: **2.9**: 3,5,7,9,16,17, 21,23, 24, 27  
 
 **Quiz** on 2/20 Thu covers: 1.8, 1.9, 2.1-2.3, 2.8
 
-## Part 2. Linear algebra, second half.
+[Lecture note 11 (pdf)](lectures/Note11.pdf)
+
+
 
 ### Lecture 2/21 Fri
 
