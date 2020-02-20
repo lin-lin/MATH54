@@ -212,35 +212,43 @@ Dimension and rank, 2.9. Vector spaces,  4.1
 
 ### Lecture 2/21 Fri
 
-Vector spaces,  4.1
+Subspaces,  4.1. 
 
 *Homework* due 2/25 Tue: **4.1**: 1,3,9,13,14,21,23,24,32 
 
 ### Lecture 2/24 Mon
 
-*Homework* due 3/3 Tue: 
+Null space, column spaces and linear transformations, 4.2
+
+*Homework* due 3/3 Tue: **4.2**: 1,3,6,7,9,24,25,26,30,31,33
 
 ### Lecture 2/26 Wed
 
-*Homework* due 3/3 Tue: 
+Bases, coordinates 4.3, 4.4
 
-**Quiz** on 2/27 Thu covers: 
+*Homework* due 3/3 Tue:   **4.3**: 3,7,13,15,21,31,33  **4.4**: 1,3,7,10,15,16,18,19,32  
+
+**Quiz** on 2/27 Thu covers: 2.9, 4.1
 
 ### Lecture 2/28 Fri
 
-*Homework* due 3/3 Tue: 
+Dimension, rank 4.5, 4.6
+
+*Homework* due 3/3 Tue: **4.5**: 3,7,11,15,19,20,26,27,29,30 **4.6**: 1,5,9,15,18,22,24,31,32,33
 
 
 
 ### Lecture 3/2 Mon
 
-*Homework* due 3/10 Tue: 
+Change of basis 4.7
+
+*Homework* due 3/10 Tue:  **4.7**: 2,3,5,8,9,11,12,13,14
 
 ### Lecture 3/4 Wed
 
 *Homework* due 3/10 Tue: 
 
-**Quiz** on 3/5 Thu covers: 
+**Quiz** on 3/5 Thu covers: 4.2-4.6
 
 ### Lecture 3/6 Fri
 
