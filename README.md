@@ -216,6 +216,10 @@ Subspaces,  4.1.
 
 *Homework* due 2/25 Tue: **4.1**: 1,3,9,13,14,21,23,24,32 
 
+[Lecture note 12 (pdf)](lectures/Note12.pdf)
+
+
+
 ### Lecture 2/24 Mon
 
 Null space, column spaces and linear transformations, 4.2
