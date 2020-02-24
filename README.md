@@ -226,6 +226,10 @@ Null space, column spaces and linear transformations, 4.2
 
 *Homework* due 3/3 Tue: **4.2**: 1,3,6,7,9,24,25,26,30,31,33
 
+[Lecture note 13 (pdf)](lectures/Note13.pdf)
+
+
+
 ### Lecture 2/26 Wed
 
 Bases, coordinates 4.3, 4.4
