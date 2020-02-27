@@ -30,7 +30,7 @@ Previous versions of the custom edition, or the separate textbooks as above **ma
 
 German Stefanich, Wednesday 8:30-10:30 AM, Evans 737
 
-Ahmee Marshall-Christensen, Monday 11 AM-12 PM Wednesday 11 AM-12 PM, Evans 832
+Ahmee Marshall-Christensen, Monday 11 AM-12 PM Wednesday 10 AM-11 PM, Evans 832
 
 Guillaume Massas, Wednesday 10 AM-12 PM, Evans 1062
 
@@ -71,6 +71,8 @@ Any student is welcome to attend the office hours of any GSI.
 - 2/10: If you want more practices, https://tbp.berkeley.edu/courses/math/54/ collects a number of exam questions from various instructors in the past.
 
 - **2/12: No discussion session on 2/13.**
+
+- Ahmee Marshall-Christensen's office hour update: Monday 11 AM-12 PM Wednesday 10 AM-11 PM, Evans 832
 
   
 
