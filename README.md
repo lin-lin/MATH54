@@ -238,6 +238,9 @@ Bases, coordinates 4.3, 4.4
 
 **Quiz** on 2/27 Thu covers: 2.9, 4.1
 
+[Lecture note 14 (pdf)](lectures/Note14.pdf)
+
+
 ### Lecture 2/28 Fri
 
 Dimension, rank 4.5, 4.6
