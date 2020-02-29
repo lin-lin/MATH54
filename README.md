@@ -230,8 +230,6 @@ Null space, column spaces and linear transformations, 4.2
 
 [Lecture note 13 (pdf)](lectures/Note13.pdf)
 
-
-
 ### Lecture 2/26 Wed
 
 Bases, coordinates 4.3, 4.4
@@ -249,6 +247,8 @@ Dimension, rank 4.5, 4.6
 
 *Homework* due 3/3 Tue: **4.5**: 3,7,11,15,19,20,26,27,29,30 **4.6**: 1,5,9,15,18,22,24,31,32,33
 
+[Lecture note 15 (pdf)](lectures/Note15.pdf)
+
 
 
 ### Lecture 3/2 Mon
@@ -259,15 +259,25 @@ Change of basis 4.7
 
 ### Lecture 3/4 Wed
 
-*Homework* due 3/10 Tue: 
+Determinants 3.1, 3.2
+
+*Homework* due 3/10 Tue: **3.1**: 1,4,5,9,12,20,21,39,40,41
+
+**3.2**: 3,5,11,19,20,27,28,32,33,34,35,41,42
 
 **Quiz** on 3/5 Thu covers: 4.2-4.6
 
 ### Lecture 3/6 Fri
 
-*Homework* due 3/10 Tue: 
+More about determinants, 3.3
+
+*Homework* due 3/10 Tue: **3.3**: 2,3,7,13,16,18,21,27,29,30,31
+
+
 
 ### Lecture 3/9 Mon
+
+Eigenvectors and eigenvalues. 5.1
 
 *Homework* due 3/17 Tue: 
 
