@@ -253,9 +253,13 @@ Dimension, rank 4.5, 4.6
 
 ### Lecture 3/2 Mon
 
-Change of basis 4.7
+Change of basis 4.7. Matrix representation of linear transformation (part of 5.4)
 
-*Homework* due 3/10 Tue:  **4.7**: 2,3,5,8,9,11,12,13,14
+*Homework* due 3/10 Tue:  **4.7**: 2,3,5,8,9,11,12,13,14. **5.4**: 1,3,4,5,6,7,8,10
+
+[Lecture note 16 (pdf)](lectures/Note16.pdf)
+
+**This is perhaps the most conceptually challenging, and most abstract lecture in this ENTIRE semester. Please read the lecture notes carefully until you think the notation and derivation becomes *somewhat natural* (that might take some time and exercises). **
 
 ### Lecture 3/4 Wed
 
