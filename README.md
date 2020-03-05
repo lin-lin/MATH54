@@ -76,6 +76,8 @@ Any student is welcome to attend the office hours of any GSI.
 
 - **Lin Lin's Office hour is 10:30AM-12PM on 3/9;  1PM-2PM on 3/16 **.
 
+- **Discussion session and Quiz on 3/5 are CANCELED**
+
   
 
 ## Part 1. Linear algebra, first half.
@@ -271,9 +273,9 @@ Determinants 3.1, 3.2
 
 **3.2**: 3,5,11,19,20,27,28,32,33,34,35,41,42
 
-**Quiz** on 3/5 Thu covers: 4.2-4.6
-
 [Lecture note 17 (pdf)](lectures/Note17.pdf)
+
+**Discussion session and Quiz on 3/5 are CANCELED**
 
 
 
