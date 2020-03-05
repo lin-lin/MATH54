@@ -74,7 +74,7 @@ Any student is welcome to attend the office hours of any GSI.
 
 - Ahmee Marshall-Christensen's office hour update: Monday 11 AM-12 PM Wednesday 10 AM-11 PM, Evans 832
 
-- Lin Lin's Office hour on 3/16 is **1PM-2PM**.
+- **Lin Lin's Office hour is 10:30AM-12PM on 3/9;  1PM-2PM on 3/16 **.
 
   
 
