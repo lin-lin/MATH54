@@ -70,9 +70,11 @@ Any student is welcome to attend the office hours of any GSI.
 
 - 2/10: If you want more practices, https://tbp.berkeley.edu/courses/math/54/ collects a number of exam questions from various instructors in the past.
 
-- **2/12: No discussion session on 2/13.**
+- 2/12: No discussion session on 2/13.
 
 - Ahmee Marshall-Christensen's office hour update: Monday 11 AM-12 PM Wednesday 10 AM-11 PM, Evans 832
+
+- Lin Lin's Office hour on 3/16 is **1PM-2PM**.
 
   
 
@@ -259,7 +261,7 @@ Change of basis 4.7. Matrix representation of linear transformation (part of 5.4
 
 [Lecture note 16 (pdf)](lectures/Note16.pdf)
 
-**This is perhaps the most conceptually challenging, and most abstract lecture in this ENTIRE semester. Please read the lecture notes carefully until you think the notation and derivation becomes *somewhat natural* (that might take some time and exercises). **
+**This is perhaps the most conceptually challenging, and most abstract lecture in this ENTIRE semester. Please read the lecture notes carefully until you think the notation and derivation becomes somewhat natural (that might take some time and exercises). **
 
 ### Lecture 3/4 Wed
 
@@ -270,6 +272,10 @@ Determinants 3.1, 3.2
 **3.2**: 3,5,11,19,20,27,28,32,33,34,35,41,42
 
 **Quiz** on 3/5 Thu covers: 4.2-4.6
+
+[Lecture note 17 (pdf)](lectures/Note17.pdf)
+
+
 
 ### Lecture 3/6 Fri
 
