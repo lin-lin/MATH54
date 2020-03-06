@@ -285,6 +285,10 @@ More about determinants, 3.3
 
 *Homework* due 3/10 Tue: **3.3**: 2,3,7,13,16,18,21,27,29,30,31
 
+[Lecture note 18 (pdf)](lectures/Note18.pdf)
+
+
+
 
 
 ### Lecture 3/9 Mon
