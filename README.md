@@ -57,7 +57,7 @@ Any student is welcome to attend the office hours of any GSI.
 - 3/7: All announcements will be made through bCourses. 
 
 
-  
+
 
 ## Part 1. Linear algebra, first half.
 
@@ -268,23 +268,23 @@ More about determinants, 3.3
 
 
 
-
-
 ### Lecture 3/9 Mon
 
 Eigenvectors and eigenvalues. 5.1
 
-*Homework* due 3/17 Tue: 
+*Homework* due 3/17 Tue: 5.1: 1,5,7,8,13,20,21,22,24,25,29,30
 
 ### Lecture 3/11 Wed
 
-*Homework* due 3/17 Tue: 
+Characteristic equation 5.2
 
-**Quiz** on 3/12 Thu covers: 
+*Homework* due 3/17 Tue: 5.2: 3,9,11,15,18,19,21,22
 
 ### Lecture 3/13 Fri
 
-*Homework* due 3/17 Tue: 
+Diagonalization 5.3
+
+*Homework* due 3/17 Tue: 5.3: 1,3,5,8,14,21,22,24,26,28,31,32
 
 ### Lecture 3/16 Mon
 
