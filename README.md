@@ -54,29 +54,8 @@ Any student is welcome to attend the office hours of any GSI.
 
 ## Announcement
 
-- The first discussion session starts on 1/23 (Thursday).
+- 3/7: All announcements will be made through bCourses. 
 
-- Again, there is no make-up final exam.
-
-- 1/24: The homework refers to the problem sets in the new textbook (listed above). This includes the first homework due on 1/28. The Department of Mathematics is informing the Student Store to have more copies of the textbook available, and will deliver a few more textbooks to the Moffitt Library as course reserves.
-
-- 1/28: We do not use gradescope for homework. All homework should be turned in during the discussion session.
-
-- 2/6: Sample Midterm 1 is available on bCourses. Solution to Sample Midterm 1 will be posted on bCourses on 2/9.
-
-- 2/6: The Midterm 1 will be 2/12 in class (2:10PM-3:00PM). All students with DSP accommodation letters should come to **Evans 748, at 2PM.**
-
-- 2/8: Sample Midterm 1 Solution is on bCourses.
-
-- 2/10: If you want more practices, https://tbp.berkeley.edu/courses/math/54/ collects a number of exam questions from various instructors in the past.
-
-- 2/12: No discussion session on 2/13.
-
-- Ahmee Marshall-Christensen's office hour update: Monday 11 AM-12 PM Wednesday 10 AM-11 PM, Evans 832
-
-- **Lin Lin's Office hour is 10:30AM-12PM on 3/9;  1PM-2PM on 3/16 **.
-
-- **Discussion session and Quiz on 3/5 are CANCELED**
 
   
 
