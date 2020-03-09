@@ -56,6 +56,10 @@ Any student is welcome to attend the office hours of any GSI.
 
 - 3/7: All announcements will be made through bCourses. 
 
+- The Youtube link for the online lectures are here (starting from Lecture 19)
+
+  ​	https://www.youtube.com/playlist?list=PLGi_96TfQhh5UEzsuAO67-yby3dZGrL2M
+
 
 
 
