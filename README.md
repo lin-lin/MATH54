@@ -274,6 +274,10 @@ Eigenvectors and eigenvalues. 5.1
 
 *Homework* due 3/17 Tue: 5.1: 1,5,7,8,13,20,21,22,24,25,29,30
 
+[Lecture note 19 (pdf)](lectures/Note19.pdf)
+
+
+
 ### Lecture 3/11 Wed
 
 Characteristic equation 5.2
