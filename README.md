@@ -288,6 +288,10 @@ Characteristic equation 5.2
 
 *Homework* due 3/17 Tue: 5.2: 3,9,11,15,18,19,21,22
 
+[Lecture note 20 (pdf)](lectures/Note20.pdf)
+
+
+
 ### Lecture 3/13 Fri
 
 Diagonalization 5.3
