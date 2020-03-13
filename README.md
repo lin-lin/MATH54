@@ -300,6 +300,10 @@ Diagonalization 5.3
 
 *Homework* due 3/17 Tue: 5.3: 1,3,5,8,14,21,22,24,26,28,31,32
 
+[Lecture note 21 (pdf)](lectures/Note21.pdf)
+
+
+
 ### Lecture 3/16 Mon
 
 *Homework* due 3/31 Tue: 
