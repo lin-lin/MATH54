@@ -326,15 +326,11 @@ Diagonalization 5.3
 
 *Homework* due 4/7 Tue: 
 
-### Lecture 4/1 Wed. Midterm!
+### Lecture 4/1 Wed. 
 
 *Homework* due 4/7 Tue: 
 
-**Midterm 2**, in class, covers: 
 
-**No discussion session this Thursday**
-
-### 
 
 
 ### Lecture 4/3 Fri
