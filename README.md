@@ -286,7 +286,7 @@ Eigenvectors and eigenvalues. 5.1
 
 ### Lecture 3/11 Wed
 
-Characteristic equation 5.2
+Characteristic equation 5.2, complex eigenvalue 5.5
 
 *Homework* due 3/17 Tue: 5.2: 3,9,11,15,18,19,21,22
 
@@ -306,17 +306,29 @@ Diagonalization 5.3
 
 ### Lecture 3/16 Mon
 
+Linear transformation, similarity transformation 5.4
+
 *Homework* due 3/31 Tue: 
+
+5.4: 1,3,5,7,8,10,15,18,19,26,27,28,29; 
+
+5.5: 2,3,8,16,22,24,25,26
 
 ### Lecture 3/18 Wed
 
-*Homework* due 3/31 Tue: 
+Inner product 6.1
 
-**Quiz** on 3/19 Thu covers: 
+*Homework* due 3/31 Tue:  
+
+6.1: 1,5,10,16,19,20,22,23,24,25,26,30,31
 
 ### Lecture 3/20 Fri
 
+Orthogonal sets 6.2
+
 *Homework* due 3/31 Tue: 
+
+6.2: 1,5,7,9,12,15,23,24,26,27,28,29,31,32,33,34
 
 
 
