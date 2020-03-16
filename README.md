@@ -28,9 +28,9 @@ Previous versions of the custom edition, or the separate textbooks as above **ma
 
 **GSI office hours: (updated with Zoom meeting ID 3/12/2020)** 
 
-German Stefanich, Wednesday 8:30-10:30 AM, Evans 737
+German Stefanich, Wednesday 8:30-10:30 AM, Evans 737  ID 956 666 7444
 
-Ahmee Marshall-Christensen, Monday 11 AM-12 PM Wednesday 10 AM-11 PM, Evans 832. ID 571 853 072.
+Ahmee Marshall-Christensen, Monday 11 AM-12 PM Wednesday 10 AM-11 PM, Evans 832 571 853 072.
 
 Guillaume Massas, Wednesday 10 AM-12 PM, Evans 1062, ID 447 966 9719
 
@@ -44,7 +44,7 @@ Meredith Shea, Monday 10 AM-12 PM, Evans 835, ID 875 463 0746
 
 Xiaohan Yan, Monday 12-1 PM and Wednesday 3-4 PM, Evans 747, ID 461 392 2165
 
-Theo Coyne, Tuesday 11 AM-12 PM Thursday 4-5 PM, Evans 710
+Theo Coyne, Tuesday 11 AM-12 PM Thursday 4-5 PM, Evans 710. ID Tuesdays: 376-449-706. Thursdays: 580-668-926
 
 
 
