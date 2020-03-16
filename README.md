@@ -30,7 +30,7 @@ Previous versions of the custom edition, or the separate textbooks as above **ma
 
 German Stefanich, Wednesday 8:30-10:30 AM, Evans 737
 
-Ahmee Marshall-Christensen, Monday 11 AM-12 PM Wednesday 10 AM-11 PM, Evans 832
+Ahmee Marshall-Christensen, Monday 11 AM-12 PM Wednesday 10 AM-11 PM, Evans 832. ID 571 853 072.
 
 Guillaume Massas, Wednesday 10 AM-12 PM, Evans 1062, ID 447 966 9719
 
