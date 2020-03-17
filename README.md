@@ -314,6 +314,10 @@ Linear transformation, similarity transformation 5.4
 
 5.5: 2,3,8,16,22,24,25,26
 
+[Lecture note 22 (pdf)](lectures/Note22.pdf)
+
+
+
 ### Lecture 3/18 Wed
 
 Inner product 6.1
