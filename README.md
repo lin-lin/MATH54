@@ -326,6 +326,10 @@ Inner product 6.1
 
 6.1: 1,5,10,16,19,20,22,23,24,25,26,30,31
 
+[Lecture note 23 (pdf)](lectures/Note23.pdf)
+
+
+
 ### Lecture 3/20 Fri
 
 Orthogonal sets 6.2
