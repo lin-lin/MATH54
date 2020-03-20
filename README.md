@@ -338,6 +338,14 @@ Orthogonal sets 6.2
 
 6.2: 1,5,7,9,12,15,23,24,26,27,28,29,31,32,33,34
 
+[Lecture note 24 (pdf)](lectures/Note24.pdf)
+
+How does Tony Stark use diagonalization (spectral decomposition, will discuss more about this after Chap 6) to save the world (click the picture below for video)
+
+[<img src="lectures/assets/spectral_decomp.jpg"/>](http://people.math.harvard.edu/~knill/various/moebius/moebius.webm)
+
+
+
 
 
 ## Part 3. Differential equations.
