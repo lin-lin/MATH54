@@ -10,9 +10,9 @@ Please read the [**Course Policy**](others/CoursePolicy.pdf) **VERY CAREFULLY**
 
 Instructor: Lin Lin. https://math.berkeley.edu/~linlin/
 
-Lecture: Dwinelle 155  MoWeFr 02:00PM - 02:59PM
+Lecture: On zoom https://berkeley.zoom.us/j/460774672  MoWeFr 02:10PM - 02:59PM
 
-Office Hours: Mo 12:30PM-2:00PM Evans 1083 (office hours may change occasionally, so please check this website first before you come to the office hour each time)
+Office Hours: Mo 12:40PM-2:00PM https://berkeley.zoom.us/j/460774672
 
 
 
