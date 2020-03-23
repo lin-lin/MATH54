@@ -36,7 +36,7 @@ Guillaume Massas, Wednesday 10 AM-12 PM, Evans 1062, ID 447 966 9719
 
 Adele Padgett, Tuesday 2-3 PM and Thursday 2-3 PM, Evans 1060, ID 669 512 3476
 
-Ziwen Zhao, Monday 9-11 AM, Evans 1006, ID 412 768 7853
+Ziwen Zhao, Monday 10:00 - 11:00 AM and 7:00 - 8:00 PM, Evans 1006, ID 412 768 7853
 
 Yixuan Li, Tuesday 1-12 PM and Thursday 1-2 PM, Evans 1040, ID 559 705 8607
 
