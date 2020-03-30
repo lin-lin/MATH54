@@ -350,6 +350,12 @@ How does Tony Stark use diagonalization (spectral decomposition, will discuss mo
 
 Orthogonal projections 6.3, Least-squares problems 6.5
 
+[Lecture note 25 (pdf)](lectures/Note25.pdf)
+
+[Use least-squares to study the number of COVID-19 cases in US ](notebooks/COVID19_LeastSquares.ipynb)
+
+
+
 *Homework* due 4/7 Tue: 
 
 6.3: 1,3,8,10,11,17,18,21,22,23,24 
