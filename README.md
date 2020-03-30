@@ -12,7 +12,7 @@ Instructor: Lin Lin. https://math.berkeley.edu/~linlin/
 
 Lecture: On zoom https://berkeley.zoom.us/j/460774672  MoWeFr 02:10PM - 02:59PM
 
-Office Hours: Mo 12:40PM-2:00PM https://berkeley.zoom.us/j/460774672
+Office Hours: MoWe 1:10PM-2:00PM https://berkeley.zoom.us/j/460774672
 
 
 
