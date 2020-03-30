@@ -346,24 +346,31 @@ How does Tony Stark use diagonalization (spectral decomposition, will discuss mo
 
 
 
-
-
-## Part 3. Differential equations.
-
 ### Lecture 3/30 Mon
 
+Orthogonal projections 6.3, Least-squares problems 6.5
+
 *Homework* due 4/7 Tue: 
+
+6.3: 1,3,8,10,11,17,18,21,22,23,24 
 
 ### Lecture 4/1 Wed. 
 
+Gram-Schmidt process 6.4
+
 *Homework* due 4/7 Tue: 
 
+6.4: 1.3,4,9,10,17,18,22
 
-
+6.5: 1,4,9,10,11,14,17,18,19,20,21,23
 
 ### Lecture 4/3 Fri
 
+Inner product spaces 6.7
+
 *Homework* due 4/7 Tue: 
+
+6.7: 1,5,8,9,11,13,14,16,17,18
 
 ### Lecture 4/6 Mon
 
@@ -378,6 +385,10 @@ How does Tony Stark use diagonalization (spectral decomposition, will discuss mo
 ### Lecture 4/10 Fri
 
 *Homework* due 4/14 Tue: 
+
+
+
+## Part 3. Differential equations.
 
 ### Lecture 4/13 Mon
 
