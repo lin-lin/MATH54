@@ -4,6 +4,8 @@ This is a repository for the course [Math 54: Linear Algebra & Differential Equa
 
 This repository contains most of the information you need for this course (lecture notes, assignments). Course sensitive information (exam, grade distribution etc) will be posted on [bCourses](https://bcourses.berkeley.edu/courses/1488929) (CalNet ID required).
 
+
+
 ## General information
 
 Please read the [**Course Policy**](others/CoursePolicy.pdf) **VERY CAREFULLY**  
@@ -363,6 +365,10 @@ Orthogonal projections 6.3, Least-squares problems 6.5
 ### Lecture 4/1 Wed. 
 
 Gram-Schmidt process 6.4
+
+[Lecture note 26 (pdf)](lectures/Note26.pdf)
+
+
 
 *Homework* due 4/7 Tue: 
 
