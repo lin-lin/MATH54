@@ -368,8 +368,6 @@ Gram-Schmidt process 6.4
 
 [Lecture note 26 (pdf)](lectures/Note26.pdf)
 
-
-
 *Homework* due 4/7 Tue: 
 
 6.4: 1.3,4,9,10,17,18,22
@@ -380,27 +378,39 @@ Gram-Schmidt process 6.4
 
 Inner product spaces 6.7
 
+[Lecture note 27 (pdf)](lectures/Note27.pdf)
+
 *Homework* due 4/7 Tue: 
 
 6.7: 1,5,8,9,11,13,14,16,17,18
 
 ### Lecture 4/6 Mon
 
+Diagonalization of symmetric matrices 7.1
+
 *Homework* due 4/14 Tue: 
+
+7.1: 3,5,10,13,17,21,24,25,26,27,28,29,30,32,35
 
 ### Lecture 4/8 Wed
 
+Singular value decomposition 7.4
+
 *Homework* due 4/14 Tue: 
 
-**Quiz** on 4/9 Thu covers: 
+7.4: 3,4,9,10,13,17,18,19,20,22 
+
+## Part 3. Differential equations.
+
+**From now on all chapters numbers refer to NS&S** 
 
 ### Lecture 4/10 Fri
 
+Homogeneous linear equations 4.2 
+
 *Homework* due 4/14 Tue: 
 
-
-
-## Part 3. Differential equations.
+4.2: 3,5,8,10,13,16,26,27,29,34,35,40,42,44
 
 ### Lecture 4/13 Mon
 
