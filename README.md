@@ -388,6 +388,10 @@ Inner product spaces 6.7
 
 Diagonalization of symmetric matrices 7.1
 
+[Lecture note 28 (pdf)](lectures/Note28.pdf)
+
+
+
 *Homework* due 4/14 Tue: 
 
 7.1: 3,5,10,13,17,21,24,25,26,27,28,29,30,32,35
