@@ -63,6 +63,8 @@ Any student is welcome to attend the (virtual) office hours of any GSI.
 - The Youtube link for the online lectures are here (starting from Lecture 19)
 
   ​	https://www.youtube.com/playlist?list=PLGi_96TfQhh5UEzsuAO67-yby3dZGrL2M
+  
+- The updated course policy is [here](others/UpdatedCoursePolicy.pdf)
 
 
 
