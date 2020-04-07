@@ -64,7 +64,7 @@ Any student is welcome to attend the (virtual) office hours of any GSI.
 
   ​	https://www.youtube.com/playlist?list=PLGi_96TfQhh5UEzsuAO67-yby3dZGrL2M
   
-- The updated course policy is [here](others/UpdatedCoursePolicy.pdf)
+- **4/6: IMPORTANT: Updated course policy is [here](others/UpdatedCoursePolicy.pdf)**
 
 
 
