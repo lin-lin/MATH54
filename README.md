@@ -430,7 +430,7 @@ Homogeneous linear equations 4.2
 
 *Homework* due 4/21 Tue: 
 
-**Quiz** on 4/16 Thu covers: 
+**Quiz** on 4/16 Thu covers: 5.1-5.5, 6.1-6.7
 
 ### Lecture 4/17 Fri
 
@@ -443,8 +443,6 @@ Homogeneous linear equations 4.2
 ### Lecture 4/22 Wed
 
 *Homework* due 4/28 Tue: 
-
-**Quiz** on 4/23 Thu covers: 
 
 ### Lecture 4/24 Fri
 
