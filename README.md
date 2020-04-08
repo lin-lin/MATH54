@@ -169,7 +169,7 @@ Matrix inverse and invertible matrices
 
 [Matrix-vector multiplication and neural networks (pdf)](lectures/Matvec-NeuralNet.pdf)
 
-[Alan Edelman's notebook on Machine Learning with Gaussian Elimination](notebooks/Machine-Learning-with-Gaussian-elimination.ipynb)
+[Alan Edelman's notebook on Machine Learning with Gaussian Elimination (juia notebook)](notebooks/Machine-Learning-with-Gaussian-elimination.ipynb)
 
 This course may demonstrate some numerical calculations using `Julia notebooks`. It does not require you to know the language of [Julia](https://julialang.org/). But in case you are curious (I bet you do), [here is some useful information](julia.md).
 
@@ -356,7 +356,7 @@ Orthogonal projections 6.3, Least-squares problems 6.5
 
 [Lecture note 25 (pdf)](lectures/Note25.pdf)
 
-[Use least-squares to study the number of COVID-19 cases in US ](notebooks/COVID19_LeastSquares.ipynb)
+[Use least-squares to study the number of COVID-19 cases in US (python notebook)](notebooks/COVID19_LeastSquares.ipynb)
 
 
 
@@ -392,8 +392,6 @@ Diagonalization of symmetric matrices 7.1
 
 [Lecture note 28 (pdf)](lectures/Note28.pdf)
 
-
-
 *Homework* due 4/14 Tue: 
 
 7.1: 3,5,10,13,17,21,24,25,26,27,28,29,30,32,35
@@ -401,6 +399,12 @@ Diagonalization of symmetric matrices 7.1
 ### Lecture 4/8 Wed
 
 Singular value decomposition 7.4
+
+[Lecture note 29 (pdf)](lectures/Note29.pdf)
+
+[Singular value decomposition based compression of an image (juia notebook)](notebooks/SVDImage.ipynb)
+
+
 
 *Homework* due 4/14 Tue: 
 
