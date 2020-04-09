@@ -432,6 +432,8 @@ Homogeneous linear equations 4.2
 
 **Quiz** on 4/16 Thu covers: 5.1-5.5, 6.1-6.7
 
+**Due to quiz, there is no discussion session on 4/16**
+
 ### Lecture 4/17 Fri
 
 *Homework* due 4/21 Tue: 
@@ -456,11 +458,17 @@ Homogeneous linear equations 4.2
 
 *Homework* due 5/5 Tue: 
 
-**Quiz** on 4/30 Thu covers: 
+**Quiz** on 4/30 Thu covers: Lay 7.1, 7.4; NS&S 4.2-4.5
+
+**Due to quiz, there is no discussion session on 4/30**
+
+
 
 ### Lecture 5/1 Fri
 
 *Homework* due 5/5 Tue: 
+
+## Class ends
 
 ### Lecture 5/4 Mo
 RRR week
@@ -471,7 +479,7 @@ RRR week
 ### Lecture 5/8 Fr
 RRR week
 
-### Final exam 5/12 Tu11:30--2:30 PM
+## Final exam 5/12 Tu11:30 PST
 
 **There is no make-up final exam**
 
