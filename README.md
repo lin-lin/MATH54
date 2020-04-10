@@ -424,11 +424,21 @@ Homogeneous linear equations 4.2
 
 ### Lecture 4/13 Mon
 
+Homogeneous linear equations 4.2, 4.3
+
 *Homework* due 4/21 Tue: 
+
+4.3: 1,3,4,9,12,18,21,23,24,28,30,36,38
 
 ### Lecture 4/15 Wed
 
+Method of undetermined coefficients 4.4
+
 *Homework* due 4/21 Tue: 
+
+4.4: 3,4, 6,8,16,21,22,26,27,28,31,32
+
+
 
 **Quiz** on 4/16 Thu covers: 5.1-5.5, 6.1-6.7
 
@@ -436,15 +446,29 @@ Homogeneous linear equations 4.2
 
 ### Lecture 4/17 Fri
 
+Method of undetermined coefficients 4.5
+
 *Homework* due 4/21 Tue: 
+
+4.5: 3,5,6,9,10,14,17,21,24,27,32,34,46  
 
 ### Lecture 4/20 Mon
 
+Matrix methods for linear differential equations 9.4
+
 *Homework* due 4/28 Tue: 
+
+9.1: 1,3,7,10,13
+
+9.4: 1,3,6,7,9,13,16,19,20,23,27,28
 
 ### Lecture 4/22 Wed
 
-*Homework* due 4/28 Tue: 
+Homogeneous linear systems 9.5
+
+*Homework* due 4/28 Tue:
+
+9.5: 1,6,10,12,13,17,19,21,31,35,37,39 
 
 ### Lecture 4/24 Fri
 
