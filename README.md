@@ -418,6 +418,8 @@ Singular value decomposition 7.4
 
 Homogeneous linear equations 4.2 
 
+[Lecture note 30 (pdf)](lectures/Note30.pdf)
+
 *Homework* due 4/14 Tue: 
 
 4.2: 3,5,8,10,13,16,26,27,29,34,35,40,42,44
@@ -425,6 +427,8 @@ Homogeneous linear equations 4.2
 ### Lecture 4/13 Mon
 
 Homogeneous linear equations 4.2, 4.3
+
+[Lecture note 31 (pdf)](lectures/Note31.pdf)
 
 *Homework* due 4/21 Tue: 
 
