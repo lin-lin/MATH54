@@ -438,6 +438,8 @@ Homogeneous linear equations 4.2, 4.3
 
 Method of undetermined coefficients 4.4
 
+[Lecture note 32 (pdf)](lectures/Note32.pdf)
+
 *Homework* due 4/21 Tue: 
 
 4.4: 3,4, 6,8,16,21,22,26,27,28,31,32
