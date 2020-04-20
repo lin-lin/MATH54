@@ -454,6 +454,8 @@ Method of undetermined coefficients 4.4
 
 Method of undetermined coefficients 4.5
 
+[Lecture note 33 (pdf)](lectures/Note33.pdf)
+
 *Homework* due 4/21 Tue: 
 
 4.5: 3,5,6,9,10,14,17,21,24,27,32,34,46  
@@ -470,15 +472,23 @@ Matrix methods for linear differential equations 9.4
 
 ### Lecture 4/22 Wed
 
-Homogeneous linear systems 9.5
+Homogeneous linear systems 9.5, 9.6, Inhomogeneous linear systems 9.7
 
 *Homework* due 4/28 Tue:
 
 9.5: 1,6,10,12,13,17,19,21,31,35,37,39 
 
+9.6: 1,5,6,14,16
+
+9.7: 1,7,17,21,28
+
 ### Lecture 4/24 Fri
 
+Heat equations, 10.2
+
 *Homework* due 4/28 Tue: 
+
+10.2: 1,3,5,8,12,15,21,23,27
 
 ### Lecture 4/27 Mon
 
