@@ -462,7 +462,11 @@ Method of undetermined coefficients 4.5
 
 ### Lecture 4/20 Mon
 
+Generalization to high order differential equations. 
+
 Matrix methods for linear differential equations 9.4
+
+[Lecture note 34 (pdf)](lectures/Note34.pdf)
 
 *Homework* due 4/28 Tue: 
 
