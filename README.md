@@ -517,13 +517,13 @@ Heat equations, 10.2
 ## Class ends
 
 ### Lecture 5/4 Mo
-RRR week
+RRR week. No class.
 
 ### Lecture 5/6 We
-RRR week
+RRR week. No class.
 
 ### Lecture 5/8 Fr
-RRR week
+RRR week. No class.
 
 ## Final exam 5/12 Tu11:30 PST
 
