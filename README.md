@@ -478,6 +478,8 @@ Matrix methods for linear differential equations 9.4
 
 Homogeneous linear systems 9.5, 9.6, Inhomogeneous linear systems 9.7
 
+[Lecture note 35 (pdf)](lectures/Note35.pdf)
+
 *Homework* due 4/28 Tue:
 
 9.5: 1,6,10,12,13,17,19,21,31,35,37,39 
