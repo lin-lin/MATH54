@@ -490,7 +490,9 @@ Homogeneous linear systems 9.5, 9.6, Inhomogeneous linear systems 9.7
 
 ### Lecture 4/24 Fri
 
-Heat equations, 10.2
+Separation of variables, 10.2
+
+[Lecture note 36 (pdf)](lectures/Note36.pdf)
 
 *Homework* due 4/28 Tue: 
 
@@ -498,11 +500,21 @@ Heat equations, 10.2
 
 ### Lecture 4/27 Mon
 
+Fourier series, 10.3
+
 *Homework* due 5/5 Tue: 
+
+10.3: 2,5,9,11,12,15,25,26,28,32
 
 ### Lecture 4/29 Wed
 
+More on Fourier series, 10.4, Heat equation 10.5
+
 *Homework* due 5/5 Tue: 
+
+10.4: 1,2,5,6,12,15,17,18
+
+10.5: 1,7,8,11,13,14,15
 
 **Quiz** on 4/30 Thu covers: Lay 7.1, 7.4; NS&S 4.2-4.5
 
@@ -512,7 +524,7 @@ Heat equations, 10.2
 
 ### Lecture 5/1 Fri
 
-*Homework* due 5/5 Tue: 
+Review of this semester
 
 ## Class ends
 
