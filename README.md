@@ -532,17 +532,7 @@ More on Fourier series, 10.4, Heat equation 10.5
 
 Review of this semester
 
-## Class ends
-
-### Lecture 5/4 Mo
-RRR week. No class.
-
-### Lecture 5/6 We
-RRR week. No class.
-
-### Lecture 5/8 Fr
-RRR week. No class.
-
+### RRR week 5/4-5/8 No class
 ## Final exam 5/12 Tu11:30 PST
 
 **There is no make-up final exam**
