@@ -502,6 +502,8 @@ Separation of variables, 10.2
 
 Fourier series, 10.3
 
+[Lecture note 37 (pdf)](lectures/Note37.pdf)
+
 *Homework* due 5/5 Tue: 
 
 10.3: 2,5,9,11,12,15,25,26,28,32
