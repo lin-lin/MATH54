@@ -514,13 +514,13 @@ Fourier series, 10.3
 
 ### Lecture 4/29 Wed
 
-More on Fourier series, 10.4, Heat equation 10.5
+More on Fourier series, 10.4
+
+[Lecture note 38 (pdf)](lectures/Note38.pdf)
 
 *Homework* due 5/5 Tue: 
 
 10.4: 1,2,5,6,12,15,17,18
-
-10.5: 1,7,8,11,13,14,15
 
 **Quiz** on 4/30 Thu covers: Lay 7.1, 7.4; NS&S 4.2-4.5
 
@@ -530,7 +530,11 @@ More on Fourier series, 10.4, Heat equation 10.5
 
 ### Lecture 5/1 Fri
 
-Review of this semester
+Heat equation 10.5. Review of this semester
+
+10.5: 1,7,8,11,13,14,15
+
+
 
 ### RRR week 5/4-5/8 No class
 ## Final exam 5/12 Tu11:30 PST
