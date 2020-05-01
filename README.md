@@ -532,6 +532,8 @@ More on Fourier series, 10.4
 
 Heat equation 10.5. Review of this semester
 
+[Lecture note 39 (pdf)](lectures/Note39.pdf)
+
 10.5: 1,7,8,11,13,14,15
 
 
