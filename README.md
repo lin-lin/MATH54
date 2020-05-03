@@ -555,7 +555,7 @@ A lot of practice exams
 
 https://tbp.berkeley.edu/courses/math/54/
 
-## Final exam 5/12 Tu11:30 PST
+## Final exam 5/12 Tu11:30AM PST
 
 **There is no make-up final exam**
 
