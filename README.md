@@ -549,6 +549,12 @@ Duck and cover, south park
 
 [<img src="lectures/assets/duck_and_cover_south_park.jpg"/>](https://www.youtube.com/watch?v=ruvGaUuVLDc)
 
+
+
+A lot of practice exams
+
+https://tbp.berkeley.edu/courses/math/54/
+
 ## Final exam 5/12 Tu11:30 PST
 
 **There is no make-up final exam**
