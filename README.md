@@ -539,10 +539,17 @@ Heat equation 10.5. Review of this semester
 
 
 ### RRR week 5/4-5/8 No class
+
+Duck and cover
+[<img src="lectures/assets/duck_and_cover.jpg"/>](https://www.youtube.com/watch?v=Lg9scNl9h4Q)
+
+
+Duck and cover, south park
+
+[<img src="lectures/assets/duck_and_cover_south_park.jpg"/>](https://www.youtube.com/watch?v=ruvGaUuVLDc)
+
 ## Final exam 5/12 Tu11:30 PST
 
 **There is no make-up final exam**
-
-
 
 
