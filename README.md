@@ -12,3 +12,6 @@ Please read the [**Course Policy**](others/CoursePolicy.pdf) **VERY CAREFULLY**
 
 Instructor: Lin Lin. https://math.berkeley.edu/~linlin/
 
+**Textbook:** *Linear algebra and differential equations, custom edition for UC Berkeley*.  **ISBN:** 9781323720868
+
+![textbook_1](lectures/assets/textbook_1.png)
