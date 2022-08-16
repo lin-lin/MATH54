@@ -12,9 +12,17 @@ Please read the [**Course Policy**](others/CoursePolicy.pdf) **VERY CAREFULLY**
 
 Instructor: [Lin Lin](https://math.berkeley.edu/~linlin/)
 
+Lecture: 	MonWedFri 09:10AM - 10:00AM	Dwinelle 155
+
 Office Hours: Mon 10:10AM-11:00AM, Wed 3:10PM-4PM. Evans 891
 
+**Important dates**
 
+Midterm 1: 9/23 Fri. 9:10AM-10AM in class.
+
+Midterm 2: 10/28 Fri. 9:10AM-10AM in class.
+
+Final: 12/15 Thu 7-10 pm PST. Location TBD.
 
 **Textbook:** *Linear algebra and differential equations, Second Custom Edition for UC Berkeley*.  **ISBN:** 9780137114030
 
@@ -191,6 +199,12 @@ Vectors and matrices. 1.3, 1.4.
 *Homework* due 11/8 Tue: 
 
 **Quiz** on 11/3 Thu covers: 
+
+## Part 3. Differential equations.
+
+**From now on all chapters numbers refer to NS&S** 
+
+
 
 ### Lecture 11/4 Fri
 
