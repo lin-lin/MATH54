@@ -36,7 +36,7 @@ Previous versions of the custom edition, or the separate textbooks as above **ma
 
 
 
-**Piazza page:** General questions about the course and its content, which might be of interest to other students, can be asked on the [piazza page](piazza.com/berkeley/fall2022/math54lec002).
+**Piazza page:** General questions about the course and its content, which might be of interest to other students, can be asked on the [piazza page](https://piazza.com/berkeley/fall2022/math54lec002).
 
 ## Part 1. Linear algebra, first half.
 
