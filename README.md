@@ -32,7 +32,7 @@ The new textbook contains chapters from the 5th and 6th (new to this custom vers
 
 Previous versions of the custom edition, or the separate textbooks as above **may work (I do not have earlier versions of the textbooks with me so I cannot explain the detailed differences), and it is your responsibility to make sure that you are doing the correct problem sets for your homework.** 
 
-**GSI office hours: ** 
+**GSI office hours:** 
 
 
 
