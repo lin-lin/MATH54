@@ -30,7 +30,7 @@ Final: 12/15 Thu 7-10 pm PST. Location TBD.
 
 The new textbook contains chapters from the 5th and 6th (new to this custom version) editions of Lay, Lay, & McDonald's Linear Algebra and Its Applications and chapters from the 9th edition of Nagle, Saff and Snider's Fundamentals of Differential Equations. The original custom edition only included chapters from the 5th edition of Lay, Lay, & McDonald's Linear Algebra and Its Applications, and chapters from the 9th edition of Nagle, Saff and Snider's Fundamentals of Differential Equations. 
 
-Previous versions of the custom edition, or the separate textbooks as above **may work (I do not have earlier versions of the textbooks with me so I cannot explain the detailed differences), and it is your responsibility to make sure that you are doing the correct problem sets for your homework. 
+Previous versions of the custom edition, or the separate textbooks as above **may** work (I do not have earlier versions of the textbooks with me so I cannot explain the detailed differences), and it is your responsibility to make sure that you are doing the correct problem sets for your homework. 
 
 **GSI office hours: ** 
 
