@@ -263,7 +263,6 @@ Vectors and matrices. 1.3, 1.4.
 ### No Lecture RRR week 12/5-12/9 
 
 
-
 ## Final exam 12/15 Thu 7-10 pm PST
 
 **There is no make-up final exam**
