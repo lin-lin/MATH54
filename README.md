@@ -42,33 +42,35 @@ Previous versions of the custom edition, or the separate textbooks as above **ma
 
 [General information of the class (pdf)](lectures/General.pdf)
 
-
-
-
-
 ### Lecture 8/24 Wed
 
 Systems of linear equations,  1.1
 
-*Homework* due 8/30 Tue: **1.1**: 1, 7, 9, 11, 15, 20, 26, 28,33,34
+*Homework* due 8/30 Tue: **1.1**: 1, 7, 9, 11, 20, 21, 26, 27, 28, 29, 32, 33, 34, 38
 
 ### Lecture 8/26 Fri
 
 Row reduction 1.2.
 
-*Homework* due 8/30 Tue: **1.2**: 3, 7, 11, 15, 23, 29, 30.
+*Homework* due 8/30 Tue: **1.2**: 3, 7, 11, 15, 19, 23, 26, 27, 29, 30, 34, 45
 
 ### Lecture 8/29 Mon
 
 Vectors and matrices. 1.3, 1.4.
 
-*Homework* due 9/6 Tue: **1.3**: 3, 5 11, 15, 25, 32,33.  **1.4**: 4,10,14,24,34
+*Homework* due 9/6 Tue:
+
+**1.3**: 5, 11, 14, 18, 25, 26, 27, 29, 30, 32, 33, 37, 38  
+
+**1.4**: 3, 10, 13, 15, 17, 18, 23, 24, 27, 28, 31, 32, 34, 36, 45
 
 ### Lecture 8/31 Wed
 
-*Homework* due 9/6 Tue: 
+Solution sets of linear systems. 1.5
 
-**Quiz** on 9/1 Thu covers: 
+*Homework* due 9/6 Tue: **1.5**: 3, 8, 17, 21, 24, 27, 29, 31, 32, 33, 34, 36, 37, 47, 50
+
+**Quiz** on 9/1 Thu covers: **1.1-1.2**
 
 ### Lecture 9/2 Fri
 
