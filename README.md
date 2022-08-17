@@ -48,6 +48,8 @@ Systems of linear equations,  1.1
 
 *Homework* due 8/30 Tue: **1.1**: 1, 7, 9, 11, 20, 21, 26, 27, 28, 29, 32, 33, 34, 38
 
+**No Quiz** on 8/25 Thu
+
 ### Lecture 8/26 Fri
 
 Row reduction 1.2.
