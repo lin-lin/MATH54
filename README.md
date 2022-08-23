@@ -34,6 +34,22 @@ Previous versions of the custom edition, or the separate textbooks as above **ma
 
 **GSI office hours:** 
 
+Lewis Pan, Monday 10-11AM, Wednesday 12-1 PM, Evans 1070
+
+Katalin Berlow, Tuesday/Thursday 6:30-7:30 PM, Evans 762
+
+Ovidiu-Neculai Avadanei, Monday and Wednesday 1-2 PM, Evans 869
+
+Jiasu Wang, Tuesday 2-4pm, Evans 739.
+
+Yulong Dong, Tuesday 1:30pm-2pm, 3:30pm-5pm, Evans 787.
+
+Chan Bae, Tuesday/Thursday 7-8 PM, Evans 1066
+
+Robert Schütz, Wed 11-1 pm, room (TBD)
+
+Jiahao Yao, Fri, 4 - 5 pm, Evans 935
+
 
 
 **Piazza page:** General questions about the course and its content, which might be of interest to other students, can be asked on the [piazza page](https://piazza.com/berkeley/fall2022/math54lec002).
