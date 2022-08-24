@@ -66,6 +66,8 @@ Systems of linear equations,  1.1
 
 **No Quiz** on 8/25 Thu
 
+[Lecture note 1 (pdf)](lectures/Note1.pdf)
+
 ### Lecture 8/26 Fri
 
 Row reduction 1.2.
