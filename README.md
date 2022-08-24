@@ -14,7 +14,7 @@ Instructor: [Lin Lin](https://math.berkeley.edu/~linlin/)
 
 Lecture: 	MonWedFri 09:10AM - 10:00AM	Dwinelle 155
 
-Office Hours: Mon 10:10AM-11:00AM, Wed 3:10PM-4PM. Evans 891
+Office Hours: Mon 10:10AM-11:00AM, Wed 3:10PM-4PM. Evans 817
 
 **Important dates**
 
