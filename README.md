@@ -56,12 +56,13 @@ Jiahao Yao, Fri, 4 - 5 pm, Evans 935
 
 **Additional resources:**
 
-Math 54 Adjunct Sign-Up Form: https://forms.gle/SeDe3pKvwSaS2sqV9 - Filling out this form will allow students to access the Zoom links for the first two weeks. 
-Math 54 Adjunct Syllabus: https://docs.google.com/document/d/1OkfBRJDbk7kWhDUzpFJ_cGxbd-1KSVjOkluUZwonVhQ/edit?usp=sharing - Here students can see more details about what the adjunct is about, how the logistics will work, and additional resources for Math 54 material.
+- Math 54 Adjunct Sign-Up Form: https://forms.gle/SeDe3pKvwSaS2sqV9 - Filling out this form will allow students to access the Zoom links for the first two weeks. 
 
-SLC's Math/Stat Adjunct Website: https://slc.berkeley.edu/programs/mathematics-and-statistics/adjunct-courses - Here students can find more information about what the adjunct program is and why they should sign up.
+- Math 54 Adjunct Syllabus: https://docs.google.com/document/d/1OkfBRJDbk7kWhDUzpFJ_cGxbd-1KSVjOkluUZwonVhQ/edit?usp=sharing - Here students can see more details about what the adjunct is about, how the logistics will work, and additional resources for Math 54 material.
 
-Overview of Math/Stat services: https://docs.google.com/spreadsheets/d/1ATJTz6qVy6FLBpUSNJK0772Hr2e7N9Hep8PQBCNKacI/edit#gid=1869262532 - Here, students can find the time and locations of all adjuncts, including the one for this class.
+- SLC's Math/Stat Adjunct Website: https://slc.berkeley.edu/programs/mathematics-and-statistics/adjunct-courses - Here students can find more information about what the adjunct program is and why they should sign up.
+
+- Overview of Math/Stat services: https://docs.google.com/spreadsheets/d/1ATJTz6qVy6FLBpUSNJK0772Hr2e7N9Hep8PQBCNKacI/edit#gid=1869262532 - Here, students can find the time and locations of all adjuncts, including the one for this class.
 
 ## Part 1. Linear algebra, first half.
 
