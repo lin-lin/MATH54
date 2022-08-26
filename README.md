@@ -84,6 +84,8 @@ Row reduction 1.2.
 
 *Homework* due 8/30 Tue: **1.2**: 3, 7, 11, 15, 19, 23, 26, 27, 29, 30, 34, 45
 
+[Lecture note 2 (pdf)](lectures/Note2.pdf)
+
 ### Lecture 8/29 Mon
 
 Vectors and matrices. 1.3, 1.4.
