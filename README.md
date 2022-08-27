@@ -48,6 +48,8 @@ Chan Bae, Tuesday/Thursday 7-8 PM, Evans 1066
 
 Robert Schütz, Wed 11-1 in Evans 961.
 
+Rose Lopez, Mondays 1-3, Evans 1061
+
 Jiahao Yao, Fri, 4 - 5 pm, Evans 935
 
 
