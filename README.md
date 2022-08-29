@@ -98,6 +98,9 @@ Vectors and matrices. 1.3, 1.4.
 
 **1.4**: 3, 10, 13, 15, 17, 18, 23, 24, 27, 28, 31, 32, 34, 36, 45
 
+[Lecture note 3 (pdf)](lectures/Note3.pdf)
+
+
 ### Lecture 8/31 Wed
 
 Solution sets of linear systems. 1.5
