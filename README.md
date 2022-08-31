@@ -109,6 +109,9 @@ Solution sets of linear systems. 1.5
 
 **Quiz** on 9/1 Thu covers: **1.1-1.2**
 
+[Lecture note 4 (pdf)](lectures/Note4.pdf)
+
+
 ### Lecture 9/2 Fri
 
 Linear independence. 1.7
