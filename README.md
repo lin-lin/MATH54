@@ -10,6 +10,9 @@ This repository contains most of the information you need for this course (lectu
 
 Please read the [**Course Policy**](others/CoursePolicy.pdf) **VERY CAREFULLY**  
 
+For administrative questions (**not covered** in the course policy):
+please email the Lead GSI first: [Jiahao Yao](jiahaoyao@berkeley.edu)
+
 Instructor: [Lin Lin](https://math.berkeley.edu/~linlin/)
 
 Lecture: 	MonWedFri 09:10AM - 10:00AM	Dwinelle 155
