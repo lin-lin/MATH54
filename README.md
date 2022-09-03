@@ -129,7 +129,7 @@ Linear transformations. 1.8, 1.9
 ### No Lecture 9/5 Mon (Labor Day)
 
 **The optional homework assignments are not required to be submitted to
-your GSI. Finishing these optional assignments can consolidate your understanding of the course material.**
+your GSI. These optional assignments can help consolidate your understanding of the course material.**
 
 ### Lecture 9/7 Wed
 
