@@ -128,19 +128,33 @@ Linear transformations. 1.8, 1.9
 
 ### No Lecture 9/5 Mon (Labor Day)
 
+**The optional homework assignments are not required to be submitted to
+your GSI each week. The main purpose is to consolidate your understanding of the course material.**
+
 ### Lecture 9/7 Wed
 
 Matrix operations. 2.1.
 
 *Homework* due 9/13 Tue: 
 
-**1.8**: 1,3,9,17,19,20,21,22,24,25,27,28,30,33,34,36,37,38
+**1.8**: 9,22,24,33,37
 
-**1.9**: 4,5,6,10,11,14,15,23,24,26,27,29,32,34,40,43
+**1.9**: 4,15,24,26,43
 
-**2.1**: 2,6,9,11,12,15,16,17,18,19,22,23,24,26,29,31,32,35,37,38,39,42
+**2.1**: 12,18,19,26,29,32,42
+
+*Optional*:
+
+**1.8**: 1,3,17,19,20,21,25,27,28,30,34,36,38
+
+**1.9**: 5,6,10,11,14,23,27,29,32,34,40,
+
+**2.1**: 2,6,9,11,15,16,17,22,23,24,31,35,37,38,39
+
+
 
 **Quiz** on 9/8 Thu covers: **1.3-1.7**
+
 
 ### Lecture 9/9 Fri
 
@@ -148,9 +162,18 @@ Matrix inverse and invertible matrices 2.2, 2.3
 
 *Homework* due 9/13 Tue: 
 
- **2.2**: 2,10,12,13,16,17,18,20,27,29,30 
+**2.2**: 10,12,18,27,29
 
- **2.3**: 4,11,12,13,15,19,21,28,30,35,45
+**2.3**: 4,11,19,21,28
+
+
+*Optional*:
+
+**2.2**: 2,13,16,17,20,30,37,43,44
+
+**2.3**: 12,13,15,30,35,45
+
+
 
 ### Lecture 9/12 Mon
 
