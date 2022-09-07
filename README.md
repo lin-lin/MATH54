@@ -155,6 +155,8 @@ Matrix operations. 2.1.
 
 **Quiz** on 9/8 Thu covers: **1.3-1.7**
 
+[Lecture note 6 (pdf)](lectures/Note6.pdf)
+
 
 ### Lecture 9/9 Fri
 
