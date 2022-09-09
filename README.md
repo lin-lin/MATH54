@@ -175,6 +175,8 @@ Matrix inverse and invertible matrices 2.2, 2.3
 
 **2.3**: 12,13,15,30,35,45
 
+[Lecture note 7 (pdf)](lectures/Note7.pdf)
+
 
 
 ### Lecture 9/12 Mon
