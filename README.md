@@ -209,6 +209,18 @@ Vector space,  4.1.
 
 **Quiz** on 9/15 Thu covers: **1.8-2.3**
 
+
+
+*Optional:*
+
+Now we start to see something cool about linear algebra in real life: 
+
+See [this article on Word2Vec](https://towardsdatascience.com/word2vec-explained-49c52b4ccb71) if you want to understand how computers can figure out the meaning of  equations like
+
+"King    -    Man    +    Woman    =    Queen"
+
+If you want to know even more about this, watch [this video](https://www.youtube.com/watch?v=hQwFeIupNP0).
+
 ### Lecture 9/16 Fri
 
 Null space, column spaces and linear transformations, 4.2
