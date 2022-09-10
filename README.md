@@ -257,6 +257,8 @@ Dimension, rank 4.5
 
 **Midterm #1** in class, covers: **1.1-2.9** (Materials in Chapter 4 are not included in Midterm 1 but will appear in Midterm 2)
 
+[List of topics in Midterm 1 (pdf)](https://math.berkeley.edu/~nikhil/courses/54.s21/mt1syll.pdf) : this is the Study Sheet written by Prof. Nikhil Srivastava. I cannot do a better job than him in terms of summarizing and clarifying the key definitions, theorems, algorithms, and types of problems that you should know. Please read this carefully. (Chapter 3 is not covered in Midterm 1) 
+
 
 
 ## Part 2. Linear algebra, second half.
