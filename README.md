@@ -255,7 +255,7 @@ Dimension, rank 4.5
 
 ### Midterm 1: 9/23 Fri
 
-**Midterm #1** in class, covers: **1.1-4.2** (Chapter 3 is not included in Midterm 1)
+**Midterm #1** in class, covers: **1.1-2.9** (Materials in Chapter 4 are not included in Midterm 1 but will appear in Midterm 2)
 
 
 
