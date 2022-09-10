@@ -185,36 +185,85 @@ Subspaces, 2.8, Dimension and rank, 2.9.
 
 *Homework* due 9/20 Tue: 
 
+**2.8**: 8,17,25,28,36 
+
+**2.9**: 14,17,22,26,35  
+
+*Optional*:
+
+**2.8**: 5,7,9,15,21,22,23,26,31,41,43
+
+**2.9**: 3,5,7,9,11,16,19,23,24,32,33  
+
 ### Lecture 9/14 Wed
+
+Vector space,  4.1. 
 
 *Homework* due 9/20 Tue: 
 
-**Quiz** on 9/15 Thu covers:
+**4.1**: 9,13,20,23,32,41 
+
+*Optional*:
+
+**4.1**: 1,3,14,19,21,24,27,31,32,37,40
+
+**Quiz** on 9/15 Thu covers: **1.8-2.3**
 
 ### Lecture 9/16 Fri
 
+Null space, column spaces and linear transformations, 4.2
+
 *Homework* due 9/20 Tue: 
+
+**4.2**: 15,37,42,43,45
+
+*Optional*:
+
+**4.2**: 2,3,7,12,25,26,31,32,33,34
+
 
 
 ### Lecture 9/19 Mon
 
+Bases, coordinates 4.3, 4.4
+
 *Homework* due 9/27 Tue: 
+
+**4.3**: 8,11,19,23,30,36
+
+**4.4**: 13,16,24,35,36
+
+*Optional*:
+
+**4.3**: 3,4,13,15,21,22,23,24,32,34,35
+
+**4.4**: 3,6,11,15,17,22,26,28,30,31
 
 ### Lecture 9/21 Wed
 
+Dimension, rank 4.5
+
 *Homework* due 9/27 Tue: 
+
+**4.5**: 6,12,18,20,25,27,45,52
+
+*Optional*:
+
+**4.5**: 3,11,19,21,22,23,24,29,32,34,39,43,44
 
 **No Quiz** on 9/22 Thu 
 
 ### Midterm 1: 9/23 Fri
 
-**Midterm #1** in class, covers: 
+**Midterm #1** in class, covers: **1.1-4.2** (Chapter 3 is not included in Midterm 1)
 
 
 
 ## Part 2. Linear algebra, second half.
 
 ### Lecture 9/26 Mon
+
+Change of basis, 4.7. Matrix representation of linear transformation (part of 5.4)
 
 *Homework* due 10/4 Tue: 
 
