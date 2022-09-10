@@ -55,6 +55,26 @@ Rose Lopez, Mondays 1-3, Evans 1061
 
 Jiahao Yao, Fri, 4 - 5 pm, Evans 935
 
+**GSI emails:**
+
+Jiahao Yao <jiahaoyao@berkeley.edu>,
+
+Lewis Pan <yllpan@berkeley.edu>,
+
+Jiasu Wang <jiasu@berkeley.edu>,
+
+Ovidiu-Neculai Avadanei <ovidiu_avadanei@berkeley.edu>,
+
+Yulong Dong <dongyl@berkeley.edu>,
+
+Katalin Berlow <katalin@berkeley.edu>,
+
+Chan Bae <c_h_bae@berkeley.edu>,
+
+Robert Schutz <rschuetz@berkeley.edu>,
+
+Rose Lopez <roselopez@berkeley.edu>
+
 
 
 **Piazza page:** General questions about the course and its content, which might be of interest to other students, can be asked on the [piazza page](https://piazza.com/berkeley/fall2022/math54lec002).
