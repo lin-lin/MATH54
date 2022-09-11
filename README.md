@@ -291,7 +291,21 @@ Dimension, rank 4.5
 
 [List of topics in Midterm 1 (pdf)](https://math.berkeley.edu/~nikhil/courses/54.s21/mt1syll.pdf) : this is the Study Sheet written by Prof. Nikhil Srivastava. I cannot do a better job than him in terms of summarizing and clarifying the key definitions, theorems, algorithms, and types of problems that you should know. Please read this carefully. (Chapter 3 is not covered in Midterm 1) 
 
-Prof. Alexander Paulin has a nice collection of [practice exams](https://drive.google.com/drive/folders/1crUy4XVpVaReemV8MDi_1jfmCtFBKMN6). 
+More resources:
+
+Prof. Alexander Paulin has a nice collection of [practice exams and solutions](https://drive.google.com/drive/folders/1crUy4XVpVaReemV8MDi_1jfmCtFBKMN6) . 
+
+[Practice Midterm 1#1](https://math.berkeley.edu/~nikhil/courses/54.f16/mt1prac.pdf) and [solutions](https://math.berkeley.edu/~nikhil/courses/54.f16/mt1pracsol.pdf) (Prof. Nikhil Srivastava) 
+
+[Practice Midterm 1#2](https://math.berkeley.edu/~nikhil/courses/54.f16/midterm1.pdf) and [solutions](https://math.berkeley.edu/~nikhil/courses/54.f16/midterm1sol.pdf) (Prof. Nikhil Srivastava) 
+
+[Practice Midterm 1#3](https://math.berkeley.edu/~nikhil/courses/54.f18/midterm1.pdf) and [solutions](https://math.berkeley.edu/~nikhil/courses/54.f18/midterm1solfixed.pdf) (Prof. Nikhil Srivastava) 
+
+
+
+## 
+
+## 
 
 ## Part 2. Linear algebra, second half.
 
