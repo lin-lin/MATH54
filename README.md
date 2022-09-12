@@ -71,7 +71,7 @@ Katalin Berlow <katalin@berkeley.edu>,
 
 Chan Bae <c_h_bae@berkeley.edu>,
 
-Robert Schutz <rschuetz@berkeley.edu>,
+Robert Schütz <rschuetz@berkeley.edu>,
 
 Rose Lopez <roselopez@berkeley.edu>
 
