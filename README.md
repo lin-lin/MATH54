@@ -215,6 +215,10 @@ Subspaces, 2.8, Dimension and rank, 2.9.
 
 **2.9**: 3,5,7,9,11,16,19,23,24,32,33  
 
+[Lecture note 8 (pdf)](lectures/Note8.pdf)
+
+
+
 ### Lecture 9/14 Wed
 
 Vector space,  4.1. 
@@ -303,9 +307,6 @@ Prof. Alexander Paulin has a nice collection of [practice exams and solutions](h
 
 
 
-## 
-
-## 
 
 ## Part 2. Linear algebra, second half.
 
