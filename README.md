@@ -234,7 +234,6 @@ Vector space,  4.1.
 **Quiz** on 9/15 Thu covers: **1.8-2.3**
 
 
-
 *Optional:*
 
 Now we start to see something cool about linear algebra in real life: 
