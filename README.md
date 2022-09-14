@@ -233,6 +233,8 @@ Vector space,  4.1.
 
 **Quiz** on 9/15 Thu covers: **1.8-2.3**
 
+[Lecture note 9(pdf)](lectures/Note9.pdf)
+
 
 *Optional:*
 
