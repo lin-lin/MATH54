@@ -258,6 +258,8 @@ Null space, column spaces and linear transformations, 4.2
 
 **4.2**: 2,3,7,12,25,26,31,32,33,34
 
+[Lecture note 10(pdf)](lectures/Note10.pdf)
+
 
 
 ### Lecture 9/19 Mon
