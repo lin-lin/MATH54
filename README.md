@@ -278,6 +278,10 @@ Bases, coordinates 4.3, 4.4
 
 **4.4**: 3,6,11,15,17,22,26,28,30,31
 
+[Lecture note 11(pdf)](lectures/Note11.pdf)
+
+
+
 ### Lecture 9/21 Wed
 
 Dimension, rank 4.5
@@ -315,23 +319,53 @@ Prof. Alexander Paulin has a nice collection of [practice exams and solutions](h
 
 ### Lecture 9/26 Mon
 
-Change of basis, 4.7. Matrix representation of linear transformation (part of 5.4)
+Change of basis, 4.6. Matrix representation of linear transformation (part of 5.4)
 
 *Homework* due 10/4 Tue: 
+
+**4.6**: 5,10,14,16
+
+**5.4**: 3,5,6
+
+*Optional*:
+**4.6**: 2,3,11,12,13,17
+
 
 ### Lecture 9/28 Wed
 
+Determinants 3.1, 3.2
+
 *Homework* due 10/4 Tue: 
 
-**Quiz** on 9/29 Thu covers: 
+**3.1**: 4,11,22,33,42,
+
+
+**3.2**: 5,16,22,28,32,33
+
+*Optional*:
+
+**3.1**: 1,5,9,10,31,37,40,41
+**3.2**: 10,17,18,21,37,38,43,48
+
+**Quiz** on 9/29 Thu covers: **2.8-4.5**
 
 ### Lecture 9/30 Fri
 
+More about determinants, 3.3
+
 *Homework* due 10/4 Tue: 
+
+**3.3**: 1,7,19,27,30,35,37
+
+**3.3**: 7,18,23,36
 
 ### Lecture 10/3 Mon
 
+Eigenvectors and eigenvalues. 5.1
+
 *Homework* due 10/11 Tue: 
+
+**5.1**: 10,18,21,24,35,37
 
 ### Lecture 10/5 Wed
 
