@@ -367,6 +367,12 @@ Eigenvectors and eigenvalues. 5.1
 
 **5.1**: 10,18,21,24,35,37
 
+*Optional:*
+
+Watch [this video](https://www.youtube.com/watch?v=ztc6sYgapwA) to see how Google's PageRank works and how it is related to an eigenvalue problem.
+
+If you want to know more, try to read [this paper](https://www.math.arizona.edu/~glickenstein/math443f08/bryanleise.pdf) (and be amazed that once upon a time, Google was only worth 25 billion dollars!)
+
 ### Lecture 10/5 Wed
 
 *Homework* due 10/11 Tue: 
