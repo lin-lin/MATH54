@@ -296,6 +296,9 @@ Dimension, rank 4.5
 
 **No Quiz** on 9/22 Thu 
 
+[Lecture note 12(pdf)](lectures/Note12.pdf)
+
+
 ### Midterm 1: 9/23 Fri
 
 **Midterm #1** in class, covers: **1.1-2.9** (Materials in Chapter 4 are not included in Midterm 1 but will appear in Midterm 2)
