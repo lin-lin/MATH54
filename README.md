@@ -333,6 +333,18 @@ Change of basis, 4.6. Matrix representation of linear transformation (part of 5.
 *Optional*:
 **4.6**: 2,3,11,12,13,17
 
+[Lecture note 13(pdf)](lectures/Note13.pdf)
+
+In the class we watched part of a [video](https://www.youtube.com/watch?v=Ip3X9LOh2dk&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&index=7) describing the geometric idea behind determinants. You should also watch this video explaining the idea behind negative area in 2D (from 3:50) and in 3D (from 6:50).
+
+*Optional*:
+
+If you have not watched the videos by [3Blue1Brown](https://www.youtube.com/c/3blue1brown) before, I also highly recommend his videos on  
+
+[Linear combination](https://www.youtube.com/watch?v=k7RM-ot2NWY&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&index=3), [Abstract vector spaces](https://www.youtube.com/watch?v=TgKwz5Ikpc8&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&index=15), and many more! 
+
+  
+
 
 ### Lecture 9/28 Wed
 
