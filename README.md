@@ -384,6 +384,8 @@ More about determinants, 3.3
 
 **3.3**: 7,18,23,36
 
+Watch [this video](https://www.youtube.com/watch?v=jBsC34PxzoM) for the geometric explanation of Cramer's rule (starting from 5:30. It is better than the book!)
+
 ### Lecture 10/3 Mon
 
 Eigenvectors and eigenvalues. 5.1
@@ -400,19 +402,35 @@ If you want to know more, try to read [this paper](https://www.math.arizona.edu/
 
 ### Lecture 10/5 Wed
 
+Characteristic equation 5.2, complex eigenvalue 5.5
+
 *Homework* due 10/11 Tue: 
 
-**Quiz** on 10/6 Thu covers: 
+5.2: 9,16,21,26,29,32
+
+5.5: 2,7,23,27
+
+**Quiz** on 10/6 Thu covers: **4.6, 5.4, 3.1-3.3**
 
 ### Lecture 10/7 Fri
 
+Diagonalization 5.3
+
 *Homework* due 10/11 Tue: 
+
+5.3: 3,19,26,28,31,34
 
 ### Lecture 10/10 Mon
 
+Linear transformation, similarity transformation 5.4
+
 *Homework* due 10/18 Tue: 
 
+5.4: 9,15,16,20,21,27 
+
 ### Lecture 10/12 Wed
+
+Inner product 6.1
 
 *Homework* due 10/18 Tue: 
 
