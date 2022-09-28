@@ -364,7 +364,7 @@ Determinants 3.1, 3.2
 
 **Quiz** on 9/29 Thu covers: **2.8-4.5**
 
-[Lecture note 13(pdf)](lectures/Note13.pdf)
+[Lecture note 14(pdf)](lectures/Note14.pdf)
 
 *Optional*:
 
