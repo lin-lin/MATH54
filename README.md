@@ -364,6 +364,14 @@ Determinants 3.1, 3.2
 
 **Quiz** on 9/29 Thu covers: **2.8-4.5**
 
+[Lecture note 13(pdf)](lectures/Note13.pdf)
+
+*Optional*:
+
+Watch [this video](https://www.youtube.com/watch?v=o6xbYsOMtFU) (only the part 6:00 to 12:00) on determinantal point process. You can also type "jaguar" to Google Image and see the results.
+
+
+
 ### Lecture 9/30 Fri
 
 More about determinants, 3.3
