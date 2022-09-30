@@ -330,10 +330,10 @@ Change of basis, 4.6. Matrix representation of linear transformation (part of 5.
 
 **5.4**: 3,5,6
 
+[Lecture note 13(pdf)](lectures/Note13.pdf)
+
 *Optional*:
 **4.6**: 2,3,11,12,13,17
-
-[Lecture note 13(pdf)](lectures/Note13.pdf)
 
 In the class we watched part of a [video](https://www.youtube.com/watch?v=Ip3X9LOh2dk&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&index=7) describing the geometric idea behind determinants. You should also watch this video explaining the idea behind negative area in 2D (from 3:50) and in 3D (from 6:50).
 
@@ -356,17 +356,15 @@ Determinants 3.1, 3.2
 
 **3.2**: 5,16,22,28,32,33
 
-*Optional*:
-
-**3.1**: 1,5,9,10,31,37,40,41
-
-**3.2**: 10,17,18,21,37,38,43,48
-
 **Quiz** on 9/29 Thu covers: **2.8-4.5**
 
 [Lecture note 14(pdf)](lectures/Note14.pdf)
 
 *Optional*:
+
+**3.1**: 1,5,9,10,31,37,40,41
+
+**3.2**: 10,17,18,21,37,38,43,48
 
 Watch [this video](https://www.youtube.com/watch?v=o6xbYsOMtFU) (only the part 6:00 to 12:00) on determinantal point process. You can also type "jaguar" to Google Image and see the results.
 
