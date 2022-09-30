@@ -380,6 +380,8 @@ More about determinants, 3.3
 
 **3.3**: 1,7,19,27,30,35,37
 
+[Lecture note 15(pdf)](lectures/Note15.pdf)
+
 *Optional*:
 
 **3.3**: 7,18,23,36
