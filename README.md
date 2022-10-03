@@ -394,7 +394,13 @@ Eigenvectors and eigenvalues. 5.1
 
 **5.1**: 10,18,21,24,35,37
 
+[Lecture note 16(pdf)](lectures/Note16.pdf)
+
+Watch the remaining part of [this video](https://www.youtube.com/watch?v=PFDu9oVAE-g&t=741s) for eigenvalues and eigenvectors.
+
 *Optional:*
+
+Review how Tony Stark saved the universe by [computing the eigenvalue of a Mobius strip](https://people.math.harvard.edu/~knill/various/moebius/moebius.webm).
 
 Watch [this video](https://www.youtube.com/watch?v=ztc6sYgapwA) to see how Google's PageRank works and how it is related to an eigenvalue problem.
 
