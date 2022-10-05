@@ -416,6 +416,8 @@ Characteristic equation 5.2, complex eigenvalue 5.5
 
 5.5: 2,7,23,27
 
+[Lecture note 17(pdf)](lectures/Note17.pdf)
+
 **Quiz** on 10/6 Thu covers: **4.6, 5.4, 3.1-3.3**
 
 ### Lecture 10/7 Fri
