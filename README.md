@@ -408,25 +408,27 @@ If you want to know more, try to read [this paper](https://www.math.arizona.edu/
 
 ### Lecture 10/5 Wed
 
-Characteristic equation 5.2, complex eigenvalue 5.5
+Characteristic equation 5.2 
 
 *Homework* due 10/11 Tue: 
 
 5.2: 9,16,21,26,29,32
 
-5.5: 2,7,23,27
-
 [Lecture note 17(pdf)](lectures/Note17.pdf)
 
-**Quiz** on 10/6 Thu covers: **4.6, 5.4, 3.1-3.3**
+**Quiz** on 10/6 Thu covers: **4.6, Part of 5.4, 3.1-3.3**
 
 ### Lecture 10/7 Fri
 
-Diagonalization 5.3
+Diagonalization 5.3, complex eigenvalue 5.5
 
 *Homework* due 10/11 Tue: 
 
 5.3: 3,19,26,28,31,34
+
+5.5: 2,7,23,27
+
+
 
 ### Lecture 10/10 Mon
 
