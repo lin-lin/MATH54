@@ -428,6 +428,7 @@ Diagonalization 5.3, complex eigenvalue 5.5
 
 5.5: 2,7,23,27
 
+[Lecture note 18(pdf)](lectures/Note18.pdf)
 
 
 ### Lecture 10/10 Mon
@@ -444,7 +445,7 @@ Inner product 6.1
 
 *Homework* due 10/18 Tue: 
 
-**Quiz** on 10/13 Thu covers: 
+**Quiz** on 10/13 Thu covers: **5.1-5.3, 5.5**
 
 ### Lecture 10/14 Fri
 
