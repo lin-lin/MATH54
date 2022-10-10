@@ -455,11 +455,15 @@ Inner product 6.1
 
 *Homework* due 10/18 Tue: 
 
+6.1: 14, 22, 25, 28, 32, 36, 38
+
 ### Lecture 10/17 Mon
 
 Orthogonal sets 6.2
 
 *Homework* due 10/25 Tue: 
+
+6.2: 12, 22, 26, 32, 37, 42
 
 ### Lecture 10/19 Wed
 
@@ -467,13 +471,20 @@ Orthogonal projections 6.3, Least-squares problems 6.5
 
 *Homework* due 10/25 Tue: 
 
-**Quiz** on 10/20 Thu covers: 
+6.3: 15, 17, 22, 25, 32
+
+6.5: 2, 9, 18, 21, 27, 29
+
+**Quiz** on 10/20 Thu covers: **5.4, 6.1**
 
 ### Lecture 10/21 Fri
 
 Gram-Schmidt process 6.4
 
 *Homework* due 10/25 Tue: 
+
+6.4: 9, 17, 20, 26
+
 
 ### Lecture 10/24 Mon
 
