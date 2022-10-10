@@ -457,15 +457,21 @@ Inner product 6.1
 
 ### Lecture 10/17 Mon
 
+Orthogonal sets 6.2
+
 *Homework* due 10/25 Tue: 
 
 ### Lecture 10/19 Wed
+
+Orthogonal projections 6.3, Least-squares problems 6.5
 
 *Homework* due 10/25 Tue: 
 
 **Quiz** on 10/20 Thu covers: 
 
 ### Lecture 10/21 Fri
+
+Gram-Schmidt process 6.4
 
 *Homework* due 10/25 Tue: 
 
@@ -481,7 +487,10 @@ Inner product 6.1
 
 ### Midterm 2: 10/28 Fri
 
-**Midterm #2** in class, covers: 
+**Midterm #2** in class, covers: **3.1-6.5** 
+
+[List of topics in Midterm 2 (pdf)](https://math.berkeley.edu/~nikhil/courses/54.s21/mt2syll.pdf) : this is the Study Sheet written by Prof. Nikhil Srivastava. I cannot do a better job than him in terms of summarizing and clarifying the key definitions, theorems, algorithms, and types of problems that you should know. Please use this as a reference and read this carefully. 
+
 
 ### Lecture 10/31 Mon
 
