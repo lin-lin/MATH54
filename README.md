@@ -420,11 +420,9 @@ Characteristic equation 5.2
 
 ### Lecture 10/7 Fri
 
-Diagonalization 5.3, complex eigenvalue 5.5
+complex eigenvalue 5.5
 
 *Homework* due 10/11 Tue: 
-
-5.3: 3,19,26,28,31,34
 
 5.5: 2,7,23,27
 
@@ -433,21 +431,27 @@ Diagonalization 5.3, complex eigenvalue 5.5
 
 ### Lecture 10/10 Mon
 
+Diagonalizability 5.3 
+
+*Homework* due 10/18 Tue: 
+
+5.3: 3,19,26,28,31,34
+
+[Lecture note 19(pdf)](lectures/Note19.pdf)
+
+### Lecture 10/12 Wed
+
 Linear transformation, similarity transformation 5.4
 
 *Homework* due 10/18 Tue: 
 
 5.4: 9,15,16,20,21,27 
 
-### Lecture 10/12 Wed
-
-Inner product 6.1
-
-*Homework* due 10/18 Tue: 
-
 **Quiz** on 10/13 Thu covers: **5.1-5.3, 5.5**
 
 ### Lecture 10/14 Fri
+
+Inner product 6.1
 
 *Homework* due 10/18 Tue: 
 
