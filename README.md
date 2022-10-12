@@ -449,6 +449,9 @@ Linear transformation, similarity transformation 5.4
 
 **Quiz** on 10/13 Thu covers: **5.1-5.3, 5.5**
 
+[Lecture note 20(pdf)](lectures/Note20.pdf)
+
+
 ### Lecture 10/14 Fri
 
 Inner product 6.1
@@ -534,8 +537,6 @@ Gram-Schmidt process 6.4
 **Quiz** on 11/10 Thu covers: 
 
 ### No Lecture 11/11 Fri (Veterans Day)
-
-*Homework* due 11/15 Tue: 
 
 ### Lecture 11/14 Mon
 
