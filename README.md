@@ -505,6 +505,20 @@ Gram-Schmidt process 6.4
 
 [List of topics in Midterm 2 (pdf)](https://math.berkeley.edu/~nikhil/courses/54.s21/mt2syll.pdf) : this is the Study Sheet written by Prof. Nikhil Srivastava. I cannot do a better job than him in terms of summarizing and clarifying the key definitions, theorems, algorithms, and types of problems that you should know. Please use this as a reference and read this carefully. 
 
+More resources:
+
+Prof. Alexander Paulin has a nice collection of [practice exams and solutions](https://drive.google.com/drive/folders/1crUy4XVpVaReemV8MDi_1jfmCtFBKMN6) . 
+
+From Prof. Nikhil Srivastava:
+
+[Practice Midterm 2#1](https://math.berkeley.edu/~nikhil/courses/54.f16/mt2prac.pdf) and [solutions](https://math.berkeley.edu/~nikhil/courses/54.f16/mt2pracsol.pdf)  
+
+[Practice Midterm 2#2](https://math.berkeley.edu/~nikhil/courses/54.f16/midterm2.pdf) and [solutions](https://math.berkeley.edu/~nikhil/courses/54.f16/midterm1so2.pdf)
+
+[Practice Midterm 2#3](https://math.berkeley.edu/~nikhil/courses/54.f18/midterm2.pdf) and [solutions](https://math.berkeley.edu/~nikhil/courses/54.f18/midterm2solfixed.pdf)
+
+
+
 
 ### Lecture 10/31 Mon
 
