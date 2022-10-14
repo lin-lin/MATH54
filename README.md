@@ -460,6 +460,8 @@ Inner product 6.1
 
 6.1: 14, 22, 25, 28, 32, 36, 38
 
+[Lecture note 21(pdf)](lectures/Note21.pdf)
+
 ### Lecture 10/17 Mon
 
 Orthogonal sets 6.2
