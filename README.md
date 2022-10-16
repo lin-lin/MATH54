@@ -515,9 +515,9 @@ From Prof. Nikhil Srivastava:
 
 [Practice Midterm 2#1](https://math.berkeley.edu/~nikhil/courses/54.f16/mt2prac.pdf) and [solutions](https://math.berkeley.edu/~nikhil/courses/54.f16/mt2pracsol.pdf)  
 
-[Practice Midterm 2#2](https://math.berkeley.edu/~nikhil/courses/54.f16/midterm2.pdf) and [solutions](https://math.berkeley.edu/~nikhil/courses/54.f16/midterm1so2.pdf)
+[Practice Midterm 2#2](https://math.berkeley.edu/~nikhil/courses/54.f16/midterm2.pdf) and [solutions](https://math.berkeley.edu/~nikhil/courses/54.f16/midterm2sol.pdf)
 
-[Practice Midterm 2#3](https://math.berkeley.edu/~nikhil/courses/54.f18/midterm2.pdf) and [solutions](https://math.berkeley.edu/~nikhil/courses/54.f18/midterm2solfixed.pdf)
+[Practice Midterm 2#3](https://math.berkeley.edu/~nikhil/courses/54.f18/midterm2.pdf) and [solutions](https://math.berkeley.edu/~nikhil/courses/54.f18/midterm2sol.pdf)
 
 
 
