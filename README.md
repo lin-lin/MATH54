@@ -470,6 +470,8 @@ Orthogonal sets 6.2
 
 6.2: 12, 22, 26, 32, 37, 42
 
+[Lecture note 22(pdf)](lectures/Note22.pdf)
+
 ### Lecture 10/19 Wed
 
 Orthogonal projections 6.3, Least-squares problems 6.5
