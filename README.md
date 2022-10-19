@@ -484,6 +484,9 @@ Orthogonal projections 6.3, Least-squares problems 6.5
 
 **Quiz** on 10/20 Thu covers: **5.4, 6.1**
 
+[Lecture note 23(pdf)](lectures/Note23.pdf)
+
+
 ### Lecture 10/21 Fri
 
 Gram-Schmidt process 6.4
