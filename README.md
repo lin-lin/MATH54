@@ -503,9 +503,13 @@ US ([ipynb notebook](others/COVID19_LeastSquares.ipynb))
 
 ### Lecture 10/24 Mon
 
-*Homework* due 11/1 Tue: 
+General inner product spaces 6.7
+
+*Homework* due 11/1 Tue: 3, 9, 12, 13, 17, 31
 
 ### Lecture 10/26 Wed
+
+Diagonalization of symmetric matrices 7.1
 
 *Homework* due 11/1 Tue: 
 
@@ -533,6 +537,8 @@ From Prof. Nikhil Srivastava:
 
 
 ### Lecture 10/31 Mon
+
+Singular value decomposition 7.4
 
 *Homework* due 11/8 Tue: 
 
