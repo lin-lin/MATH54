@@ -495,6 +495,11 @@ Gram-Schmidt process 6.4
 
 6.4: 9, 17, 20, 26
 
+Use least squares to study the early phase of the COVID-19 pandemic in
+US ([ipynb notebook](lectures/assets/COVID19_LeastSquares.ipynb))
+
+[Lecture note 24(pdf)](lectures/Note24.pdf)
+
 
 ### Lecture 10/24 Mon
 
