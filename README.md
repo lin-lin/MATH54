@@ -507,6 +507,9 @@ General inner product spaces 6.7
 
 *Homework* due 11/1 Tue: 3, 9, 12, 13, 17, 31
 
+[Lecture note 25(pdf)](lectures/Note25.pdf)
+
+
 ### Lecture 10/26 Wed
 
 Diagonalization of symmetric matrices 7.1
