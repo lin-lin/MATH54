@@ -512,9 +512,10 @@ General inner product spaces 6.7
 
 ### Lecture 10/26 Wed
 
-Diagonalization of symmetric matrices 7.1
+General (complex) inner product spaces 6.7
 
-*Homework* due 11/1 Tue: 21, 24, 30, 36, 38
+*Homework* due 10/25 Tue: None
+
 
 **No Quiz** on 10/27 Thu: 
 
@@ -541,15 +542,15 @@ From Prof. Nikhil Srivastava:
 
 ### Lecture 10/31 Mon
 
-Singular value decomposition 7.4
+Diagonalization of symmetric matrices 7.1
 
-*Homework* due 11/8 Tue: 11, 13, 17, 20, 25
+*Homework* due 11/1 Tue: 21, 24, 30, 36, 38
 
 ### Lecture 11/2 Wed
 
-*Homework* due 11/8 Tue: 
+Singular value decomposition 7.4
 
-**Quiz** on 11/3 Thu covers: 
+*Homework* due 11/8 Tue: 11, 13, 17, 20, 25
 
 ## Part 3. Differential equations.
 
