@@ -516,6 +516,8 @@ General (complex) inner product spaces 6.7
 
 *Homework* due 10/25 Tue: None
 
+[Lecture note 26(pdf)](lectures/Note26.pdf)
+
 
 **No Quiz** on 10/27 Thu: 
 
