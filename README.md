@@ -559,6 +559,9 @@ Singular value decomposition 7.4
 
 [Singular value decomposition based compression of an image (juia notebook)](others/SVDImage.ipynb)
 
+**Quiz** on 11/3 Thu covers: **6.2-6.7**
+
+
 ## Part 3. Differential equations.
 
 **From now on all chapters numbers refer to NS&S** 
@@ -567,25 +570,35 @@ Singular value decomposition 7.4
 
 ### Lecture 11/4 Fri
 
+Homogeneous linear equations 4.2 
+
 *Homework* due 11/8 Tue: 
 
 ### Lecture 11/7 Mon
+
+Homogeneous linear equations 4.3
 
 *Homework* due 11/15 Tue: 
 
 ### Lecture 11/9 Wed
 
+Inhomogeneous linear equations 4.4, 4.5
+
 *Homework* due 11/15 Tue: 
 
-**Quiz** on 11/10 Thu covers: 
+**Quiz** on 11/10 Thu covers: Lay 7.1, 7.4; NS&S 4.2
 
 ### No Lecture 11/11 Fri (Veterans Day)
 
 ### Lecture 11/14 Mon
 
+Linear systems in normal form 9.4
+
 *Homework* due 11/22 Tue: 
 
 ### Lecture 11/16 Wed
+
+Homogeneous linear systems 9.5, 9.6
 
 *Homework* due 11/22 Tue: 
 
@@ -593,9 +606,14 @@ Singular value decomposition 7.4
 
 ### Lecture 11/18 Fri
 
+Fourier series 10.3
+
 *Homework* due 11/22 Tue: 
 
 ### Lecture 11/21 Mon
+
+Fourier series 10.4
+
 
 *Homework* due 11/29 Tue: 
 
@@ -605,15 +623,21 @@ Singular value decomposition 7.4
 
 ### Lecture 11/28 Mon
 
+Fourier series 10.4
+
 *Homework* due 12/6 Tue: 
 
 ### Lecture 11/30 Wed
+
+Separation of variables, 10.2
 
 *Homework* due 12/6 Tue: 
 
 **Quiz** on 12/1 Thu covers: 
 
 ### Lecture 12/2 Fri (Formal Classes End)
+
+Heat equation 10.5. (Review of this semester)
 
 *Homework* due 12/6 Tue: 
 
