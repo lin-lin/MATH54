@@ -505,7 +505,9 @@ US ([ipynb notebook](others/COVID19_LeastSquares.ipynb))
 
 General inner product spaces 6.7
 
-*Homework* due 11/1 Tue: 3, 9, 12, 13, 17, 31
+*Homework* due 11/1 Tue: 
+
+6.7: 3, 9, 12, 13, 17, 31
 
 [Lecture note 25(pdf)](lectures/Note25.pdf)
 
@@ -546,7 +548,9 @@ From Prof. Nikhil Srivastava:
 
 Diagonalization of symmetric matrices 7.1
 
-*Homework* due 11/1 Tue: 21, 24, 30, 36, 38
+*Homework* due 11/1 Tue: 
+
+7.1: 21, 24, 30, 36, 38
 
 [Lecture note 27(pdf)](lectures/Note27.pdf)
 
@@ -555,7 +559,9 @@ Diagonalization of symmetric matrices 7.1
 
 Singular value decomposition 7.4
 
-*Homework* due 11/8 Tue: 11, 13, 17, 20, 25
+*Homework* due 11/8 Tue: 
+
+7.4: 11, 13, 17, 20, 25
 
 [Singular value decomposition based compression of an image (juia notebook)](others/SVDImage.ipynb)
 
@@ -566,13 +572,13 @@ Singular value decomposition 7.4
 
 **From now on all chapters numbers refer to NS&S** 
 
-
-
 ### Lecture 11/4 Fri
 
 Homogeneous linear equations 4.2 
 
 *Homework* due 11/8 Tue: 
+
+4.2: 5, 16, 26, 35, 42
 
 ### Lecture 11/7 Mon
 
@@ -580,11 +586,17 @@ Homogeneous linear equations 4.3
 
 *Homework* due 11/15 Tue: 
 
+4.3: 11, 28, 31, 35
+
 ### Lecture 11/9 Wed
 
 Inhomogeneous linear equations 4.4, 4.5
 
 *Homework* due 11/15 Tue: 
+
+4.4: 1, 4, 13, 24
+
+4.5: 2, 17, 32
 
 **Quiz** on 11/10 Thu covers: Lay 7.1, 7.4; NS&S 4.2
 
@@ -595,6 +607,7 @@ Inhomogeneous linear equations 4.4, 4.5
 Linear systems in normal form 9.4
 
 *Homework* due 11/22 Tue: 
+
 
 ### Lecture 11/16 Wed
 
