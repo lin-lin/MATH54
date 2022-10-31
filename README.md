@@ -548,11 +548,16 @@ Diagonalization of symmetric matrices 7.1
 
 *Homework* due 11/1 Tue: 21, 24, 30, 36, 38
 
+[Lecture note 27(pdf)](lectures/Note27.pdf)
+
+
 ### Lecture 11/2 Wed
 
 Singular value decomposition 7.4
 
 *Homework* due 11/8 Tue: 11, 13, 17, 20, 25
+
+[Singular value decomposition based compression of an image (juia notebook)](others/SVDImage.ipynb)
 
 ## Part 3. Differential equations.
 
