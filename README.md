@@ -657,6 +657,23 @@ Heat equation 10.5. (Review of this semester)
 ### No Lecture RRR week 12/5-12/9 
 
 
-## Final exam 12/15 Thu 7-10 pm PST
+## Final exam 12/15 Thu 7-10 pm PT
 
 **There is no make-up final exam**
+
+Room (527 seats, 7-10 pm PT): [Pimentel Hall, Room 1](https://25live.collegenet.com/pro/berkeley#!/home/location/186/details)
+
+Room for DSP students TBD 
+
+If you are taking a makeup final exam (from Professor Paulin's class
+last semester), please directly come to Pimentel Hall, Room 1 to take the final exam.
+Please do not email me asking for the final score. Your final scores will
+be directly sent to Professor Paulin at the end of the semester. 
+
+If you need to complete the Math 49 assignment, please directly come to
+Pimentel Hall, Room 1 to take the final exam.  If the Math 49 assignment
+says that you only need to finish the differential equation part, then
+you only need to work on the questions in the final exam related to
+differential equations. At the end of the semester, you can contact the
+Lead GSI Jiahao Yao <jiahaoyao@berkeley.edu> to finish your Math 49
+requirement.
