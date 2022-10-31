@@ -657,13 +657,13 @@ Heat equation 10.5. (Review of this semester)
 ### No Lecture RRR week 12/5-12/9 
 
 
-## Final exam 12/15 Thu 7-10 pm PT
+## Final exam 12/15 Thu 7pm-10 pm PT
 
 **There is no make-up final exam**
 
-Room (527 seats, 7-10 pm PT): [Pimentel Hall, Room 1](https://25live.collegenet.com/pro/berkeley#!/home/location/186/details)
+Room (7pm-10 pm PT): [Pimentel Hall, Room 1](https://www.berkeley.edu/map?pimentel)
 
-Room for DSP students TBD 
+Room for DSP students (4pm-10pm PT): [Moffitt,Room 101](https://www.berkeley.edu/map?moffitt)
 
 If you are taking a makeup final exam (from Professor Paulin's class
 last semester), please directly come to Pimentel Hall, Room 1 to take the final exam.
