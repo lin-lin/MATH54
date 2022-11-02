@@ -496,7 +496,7 @@ Gram-Schmidt process 6.4
 6.4: 9, 17, 20, 26
 
 Use least squares to study the early phase of the COVID-19 pandemic in
-US ([ipynb notebook](others/COVID19_LeastSquares.ipynb))
+US ([ipynb notebook](https://nbviewer.org/urls/lin-lin.github.io/MATH54/others/COVID19_LeastSquares.ipynb))
 
 [Lecture note 24(pdf)](lectures/Note24.pdf)
 
@@ -563,7 +563,7 @@ Singular value decomposition 7.4
 
 7.4: 11, 13, 17, 20, 25
 
-[Singular value decomposition based compression of an image (juia notebook)](others/SVDImage.ipynb)
+[Singular value decomposition based compression of an image (juia notebook)](https://nbviewer.org/urls/lin-lin.github.io/MATH54/others/SVDImage.ipynb)
 
 [Lecture note 28(pdf)](lectures/Note28.pdf)
 
