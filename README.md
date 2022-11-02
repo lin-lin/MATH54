@@ -516,7 +516,7 @@ General inner product spaces 6.7
 
 General (complex) inner product spaces 6.7
 
-*Homework* due 10/25 Tue: None
+*Homework* due 11/1 Tue: None
 
 [Lecture note 26(pdf)](lectures/Note26.pdf)
 
@@ -548,7 +548,7 @@ From Prof. Nikhil Srivastava:
 
 Diagonalization of symmetric matrices 7.1
 
-*Homework* due 11/1 Tue: 
+*Homework* due 11/8 Tue: 
 
 7.1: 21, 24, 30, 36, 38
 
@@ -564,6 +564,10 @@ Singular value decomposition 7.4
 7.4: 11, 13, 17, 20, 25
 
 [Singular value decomposition based compression of an image (juia notebook)](others/SVDImage.ipynb)
+
+[Lecture note 28(pdf)](lectures/Note28.pdf)
+
+
 
 **Quiz** on 11/3 Thu covers: **6.2-6.7**
 
