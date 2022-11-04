@@ -584,6 +584,8 @@ Homogeneous linear equations 4.2
 
 4.2: 5, 16, 26, 35, 42
 
+[Lecture note 29(pdf)](lectures/Note29.pdf)
+
 [Spring simulator](https://www.myphysicslab.com/springs/single-spring-en.html)
 
 ### Lecture 11/7 Mon
