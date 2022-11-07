@@ -596,6 +596,10 @@ Homogeneous linear equations 4.3
 
 4.3: 11, 28, 31, 35
 
+[Lecture note 30(pdf)](lectures/Note30.pdf)
+
+
+
 ### Lecture 11/9 Wed
 
 Inhomogeneous linear equations 4.4, 4.5
