@@ -4,7 +4,7 @@ This is a repository for the course [Math 54: Linear Algebra & Differential Equa
 
 This repository contains most of the information you need for this course (lecture notes, assignments). Course sensitive information (announcements, exam, grade distribution etc) will be posted on [bCourses](https://bcourses.berkeley.edu/courses/1488929) (CalNet ID required).
 
-If you are taking a makeup final exam or need to complete the Math 49 assignment, please see the end of the webpage for instructions on how to proceed with the final exam. 
+**If you are taking a makeup final exam or need to complete the Math 49 assignment, please see the end of the webpage for instructions on how to proceed with the final exam. **
 
 ## General information
 
