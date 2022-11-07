@@ -4,7 +4,7 @@ This is a repository for the course [Math 54: Linear Algebra & Differential Equa
 
 This repository contains most of the information you need for this course (lecture notes, assignments). Course sensitive information (announcements, exam, grade distribution etc) will be posted on [bCourses](https://bcourses.berkeley.edu/courses/1488929) (CalNet ID required).
 
-
+If you are taking a makeup final exam or need to complete the Math 49 assignment, please see the end of the webpage for instructions on how to proceed with the final exam. 
 
 ## General information
 
@@ -674,14 +674,13 @@ Room (7pm-10 pm PT): [Pimentel Hall, Room 1](https://www.berkeley.edu/map?piment
 Room for DSP students (4pm-10pm PT): [Moffitt,Room 101](https://www.berkeley.edu/map?moffitt)
 
 If you are taking a makeup final exam (from Professor Paulin's class
-last semester), please directly come to Pimentel Hall, Room 1 to take the final exam.
+last semester), please 1) join gradescope with the course entry code Entry V5W3WB 2) directly come to Pimentel Hall, Room 1 to take the final exam.
 Please do not email me asking for the final score. Your final scores will
 be directly sent to Professor Paulin at the end of the semester. 
 
-If you need to complete the Math 49 assignment, please directly come to
-Pimentel Hall, Room 1 to take the final exam.  If the Math 49 assignment
+If you need to complete the Math 49 assignment, please 1) join gradescope with the course entry code Entry V5W3WB 2) directly come to Pimentel Hall, Room 1 to take the final exam.  If the Math 49 assignment
 says that you only need to finish the differential equation part, then
 you only need to work on the questions in the final exam related to
-differential equations. At the end of the semester, you can contact the
+differential equations. Please do not email me asking for the final score. At the end of the semester, you can contact the
 Lead GSI Jiahao Yao <jiahaoyao@berkeley.edu> to finish your Math 49
 requirement.
