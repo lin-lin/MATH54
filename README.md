@@ -612,6 +612,10 @@ Inhomogeneous linear equations 4.4, 4.5
 
 **Quiz** on 11/10 Thu covers: Lay 7.1, 7.4; NS&S 4.2
 
+[Lecture note 31(pdf)](lectures/Note31.pdf)
+
+
+
 ### No Lecture 11/11 Fri (Veterans Day)
 
 ### Lecture 11/14 Mon
