@@ -622,7 +622,7 @@ Inhomogeneous linear equations 4.4, 4.5
 
 Inhomogeneous linear equations 4.4, 4.5
 
-*Homework* due 11/22 Tue: 
+*Homework* due 11/22 Tue: None.
 
 
 [Lecture note 32(pdf)](lectures/Note32.pdf)
@@ -639,9 +639,10 @@ Inhomogeneous linear equations 4.4, 4.5
 
 4.5: 2, 11, 33
 
-**Quiz** on 11/17 Thu covers: NS&S 4.3-4.4
+[Lecture note 33(pdf)](lectures/Note33.pdf)
 
-**The following syllabus is now out of date and will be updated later**
+
+**Quiz** on 11/17 Thu covers: NS&S 4.3-4.4
 
 ### Lecture 11/18 Fri
 
@@ -650,15 +651,17 @@ Linear systems in normal form 9.4
 
 Homogeneous linear systems 9.5, 9.6
 
-
-Fourier series 10.3
-
 *Homework* due 11/22 Tue: 
+
+9.5: 12, 18
+
+9.6: 5, 13
+
+**The following syllabus is now out of date and will be updated later**
 
 ### Lecture 11/21 Mon
 
-Fourier series 10.4
-
+Fourier series 10.3
 
 *Homework* due 11/29 Tue: 
 
