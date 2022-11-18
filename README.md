@@ -641,7 +641,6 @@ Inhomogeneous linear equations 4.4, 4.5
 
 [Lecture note 33(pdf)](lectures/Note33.pdf)
 
-
 **Quiz** on 11/17 Thu covers: NS&S 4.3-4.4
 
 ### Lecture 11/18 Fri
@@ -657,13 +656,14 @@ Homogeneous linear systems 9.5, 9.6
 
 9.6: 5, 13
 
-**The following syllabus is now out of date and will be updated later**
+[Lecture note 34(pdf)](lectures/Note34.pdf)
+
 
 ### Lecture 11/21 Mon
 
-Fourier series 10.3
+Review session, Q&A (Zoom only)
 
-*Homework* due 11/29 Tue: 
+https://berkeley.zoom.us/j/92646132059
 
 ### No Lecture 11/23 Wed (Thanksgiving)
 
@@ -671,28 +671,28 @@ Fourier series 10.3
 
 ### Lecture 11/28 Mon
 
-Fourier series 10.4
+Review session, Q&A (Zoom only)
 
-*Homework* due 12/6 Tue: 
+https://berkeley.zoom.us/j/92646132059
 
 ### Lecture 11/30 Wed
 
-Separation of variables, 10.2
+Review session, Q&A (Zoom only)
 
-*Homework* due 12/6 Tue: 
-
-**Quiz** on 12/1 Thu covers: 
+https://berkeley.zoom.us/j/92646132059
 
 ### Lecture 12/2 Fri (Formal Classes End)
 
-Heat equation 10.5. (Review of this semester)
+Review session, Q&A (Zoom only)
 
-*Homework* due 12/6 Tue: 
+https://berkeley.zoom.us/j/92646132059
 
 ### No Lecture RRR week 12/5-12/9 
 
 
 ## Final exam 12/15 Thu 7pm-10 pm PT
+
+**Plan for final exam: waiting for campus instruction**
 
 **There is no make-up final exam**
 
