@@ -665,6 +665,9 @@ Review session, Q&A (Zoom only)
 
 https://berkeley.zoom.us/j/92646132059
 
+[Lecture note 35(pdf)](lectures/Note35.pdf)
+
+
 ### No Lecture 11/23 Wed (Thanksgiving)
 
 ### No Lecture 11/25 Fri (Thanksgiving)
