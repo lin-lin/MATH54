@@ -695,6 +695,9 @@ https://berkeley.zoom.us/j/92646132059
 
 ## Final exam 12/15 Thu 7pm-10 pm PT
 
+Prof. Alexander Paulin has a nice collection of [practice exams and solutions](https://drive.google.com/drive/folders/1crUy4XVpVaReemV8MDi_1jfmCtFBKMN6) . 
+
+
 **Plan for final exam: waiting for campus instruction**
 
 **There is no make-up final exam**
