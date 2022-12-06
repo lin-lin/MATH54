@@ -699,9 +699,7 @@ https://berkeley.zoom.us/j/92646132059
 
 Prof. Alexander Paulin has a nice collection of [practice exams and solutions](https://drive.google.com/drive/folders/1crUy4XVpVaReemV8MDi_1jfmCtFBKMN6) . 
 
-
-**Plan for final exam: waiting for campus instruction**
+**Please refer to the updated course policy at the top of the page.**
 
 **There is no make-up final exam**
 
-**Please refer to the updated course policy at the top of the page.**
