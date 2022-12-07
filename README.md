@@ -4,7 +4,7 @@ This is a repository for the course [Math 54: Linear Algebra & Differential Equa
 
 This repository contains most of the information you need for this course (lecture notes, assignments). Course sensitive information (announcements, exam, grade distribution etc) will be posted on [bCourses](https://bcourses.berkeley.edu/courses/1488929) (CalNet ID required).
 
-## NEW: EVERYONE PLEASE READ
+# NEW: EVERYONE PLEASE READ
 
 [**Updated course policy 12/6/2022**](others/UpdatedCoursePolicy_1206.pdf)
 
