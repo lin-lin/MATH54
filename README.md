@@ -6,6 +6,8 @@ This repository contains most of the information you need for this course (lectu
 
 # NEW: EVERYONE PLEASE READ
 
+This document includes information also for students from Professor Paulin's class last semester in need of a makeup exam and students enrolled in Math 49 for this course.
+
 [**Updated course policy 12/6/2022**](others/UpdatedCoursePolicy_1206.pdf)
 
 ## General information
